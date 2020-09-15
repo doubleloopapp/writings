@@ -23,5 +23,5 @@ _Note: installing our GitHub app **will not** give us access to  your source cod
 
 ![](../.gitbook/assets/screen-shot-2020-09-15-at-4.19.04-pm.png)
 
-That's it! Now we'll start receiving data that will teach us learn how to make DoubleLoop awesome for you. We'll be in touch.
+That's it! Now we'll start receiving data that will teach us how to make DoubleLoop awesome for you. We'll be in touch.
 
