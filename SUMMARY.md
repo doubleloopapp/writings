@@ -1,4 +1,4 @@
 # Table of contents
 
-* [DoubleLoop vision](README.md)
+* [The DoubleLoop vision](README.md)
 
