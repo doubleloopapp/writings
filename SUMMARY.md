@@ -4,5 +4,5 @@
 
 ## Instructions
 
-* [GitHub setup instructions](instructions/github-setup-instructions.md)
+* [GitHub app setup](instructions/github-setup-instructions.md)
 

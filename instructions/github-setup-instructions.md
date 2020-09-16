@@ -2,7 +2,7 @@
 description: Get your data flowing so we can make DoubleLoop awesome for you!
 ---
 
-# GitHub setup instructions
+# GitHub app setup
 
 DoubleLoop is still pre-launch and there are some basic features we haven't added yet. But we'd love if you'd be willing to install our GitHub app. Doing so will help us learn how to make DoubleLoop a powerful tool for your company.
 
