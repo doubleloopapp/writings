@@ -8,7 +8,7 @@ DoubleLoop is still pre-launch and there are some basic features we haven't adde
 
 _Note: installing our GitHub app **will not** give us access to your source code._ 
 
-1. Go here: [https://www.metaloop.app/](https://www.metaloop.app/)
+1. Go here: [https://metaloop.app/](https://metaloop.app/)
 2. A dialogue box will open. Enter these details and click "Sign in":
    1. Username: `double`
    2. Password: `loop`
