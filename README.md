@@ -2,7 +2,7 @@
 description: The original vision published on productlogic.org in 2015.
 ---
 
-# The DoubleLoop Vision
+# The DoubleLoop vision
 
 Many fundamentals of product development are straight forward in theory but difficult to apply reliably in the real world. With each launch, teams should define clear objectives with measurable success criteria. They should communicate launch strategies and details to the broader company. After time passes, they should analyze whether a launch met success criteria. Periodically, teams should step back to evaluate the efficacy of their overall process and identify opportunities to improve.
 

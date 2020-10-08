@@ -1,12 +1,9 @@
 # Table of contents
 
-* [The DoubleLoop Vision](README.md)
+* [The DoubleLoop vision](README.md)
+* [Demo videos](demo-videos.md)
 
 ## Instructions
 
 * [GitHub app setup](instructions/github-setup-instructions.md)
-
----
-
-* [Demo videos](demo-videos.md)
 
