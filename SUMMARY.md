@@ -6,3 +6,7 @@
 
 * [GitHub app setup](instructions/github-setup-instructions.md)
 
+---
+
+* [Demo videos](demo-videos.md)
+
