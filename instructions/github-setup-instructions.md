@@ -9,8 +9,8 @@ DoubleLoop is still pre-launch and there are some basic features we haven't adde
 Go here: [https://metaloop.app/](https://metaloop.app/)
 
 1. Now you can create your account. You can either...
-   1. click the "create an account" link, or
-   2. click the button to sign up with GitHub.
+   1. Click the "create an account" link, or
+   2. Click the button to sign up with GitHub.
 2. After creating your account, you'll be asked to name your organization. Enter the name of your company and click "Create organization."
 3. Now let's connect your GitHub. Click the circle with your initials in the top right.
 4. Click "Integrations" in the menu.
