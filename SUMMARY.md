@@ -1,7 +1,6 @@
 # Table of contents
 
 * [The DoubleLoop vision](README.md)
-* [Demo videos](demo-videos.md)
 
 ## Instructions
 
