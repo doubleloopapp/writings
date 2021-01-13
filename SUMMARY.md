@@ -5,4 +5,5 @@
 ## Instructions
 
 * [GitHub app setup](instructions/github-setup-instructions.md)
+* [Slack setup](instructions/slack-setup.md)
 
