@@ -57,5 +57,5 @@ Now, any new events that match the criteria for the view will be automatically s
 
 ## Give it a try!
 
-We'd love your help improving DoubleLoop! Feel free to support@doubleloop.app with any problems, ideas, or questions.
+We'd love your help improving DoubleLoop! Email us at **support@doubleloop.app** with any problems, ideas, or questions.
 
