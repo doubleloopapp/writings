@@ -14,6 +14,10 @@ This page covers how to:
 
 If you haven't already created your DoubleLoop account or installed our GitHub app, go [here](https://doubleloop.gitbook.io/doubleloop/instructions/github-setup-instructions) first.
 
+Before reading the instructions, you might find it helpful to check out this demo video:
+
+[https://www.loom.com/share/17ad8cad783443e8b76cf680810b08de](https://www.loom.com/share/17ad8cad783443e8b76cf680810b08de)
+
 ## ⚙ Integrate DoubleLoop with Slack
 
 1. Login to your DoubleLoop account at [https://metaloop.app/](https://metaloop.app/)
