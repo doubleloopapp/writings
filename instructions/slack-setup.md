@@ -45,7 +45,7 @@ The power of DoubleLoop is unleashed when you design your own system for automat
 
 1. Start by creating a "view" that filters for the events you want to send to Slack. [From the events page](https://metaloop.app/events), use the filter options on the left until you see the relevant events. For example, you can search for only pull requests merged to your master branch.
 2. When you're happy with your filters, click the "+" button to the right of VIEWS. Enter a name and click "Save View." Now you will see it in your list of views.
-3. Click the icon to the right of the view to open a modal. In the modal, select a Slack channel or DM.
+3. Click the icon to the right of the view to open a modal. In the modal, select a Slack channel or DM. \(Note: You might want to create a new Slack channel for the notifications. If so, you need to refresh the page to see the channel in the list.\)
 
 Now, any new events that match the criteria for the view will be automatically sent to Slack! Create as many views as you want for any purpose. Teams have used DoubleLoop to create views for
 
