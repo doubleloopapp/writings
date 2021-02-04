@@ -1,10 +1,10 @@
 ---
-description: Get your data flowing so we can make DoubleLoop awesome for you!
+description: The first step to using DoubleLoop is to get your data flowing from GitHub.
 ---
 
-# GitHub app setup
+# DoubleLoop GitHub app setup
 
-DoubleLoop is still pre-launch and there are some basic features we haven't added yet. But we'd love it if you'd be willing to install our GitHub app. Doing so will help us tune the system to make DoubleLoop a powerful tool for your company.
+Here's how to get started:
 
 1. Go here: [https://metaloop.app/](https://metaloop.app/)
 2. Now you can create your account. You can either...
@@ -18,5 +18,5 @@ DoubleLoop is still pre-launch and there are some basic features we haven't adde
 
 ![](../.gitbook/assets/screen-shot-2020-09-15-at-4.19.04-pm.png)
 
-That's it! Now we'll start receiving data that will teach us how to make DoubleLoop awesome for you. We'll be in touch.
+That's it! Now, your product iterations will flow into DoubleLoop with each PR or commit. After the data populates for a few days, you can [learn how to set up filtered Slack notifications](https://app.gitbook.com/@doubleloop/s/doubleloop/~/drafts/-MSjRHp3FpfVn0Dd7IS1/instructions/slack-setup).
 
