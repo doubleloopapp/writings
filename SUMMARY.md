@@ -5,5 +5,9 @@
 ## Instructions
 
 * [DoubleLoop GitHub app setup](instructions/github-setup-instructions.md)
-* [Slack setup](instructions/slack-setup.md)
+* [Sending filtered notifications to Slack](instructions/slack-setup.md)
+
+## Use Cases
+
+* [Why you need a source-of-truth for product iterations](use-cases/a-system-of-record-for-product-iterations.md)
 
