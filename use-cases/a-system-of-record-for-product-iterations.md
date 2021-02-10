@@ -69,7 +69,7 @@ Then, it's up to you how much you want to "enrich" your timeline with more conte
 
 DoubleLoop creates a virtuous cycle of increased clarity that permeates all your tools. E.g., when an engineer writes a commit message, if they know it will appear as the default event title in DoubleLoop, they might write something a bit easier for stakeholders to understand.
 
-To try it out, [install our GitHub app](../instructions/github-setup-instructions.md) our check out the [homepage](https://www.doubleloop.app/). 
+To try it out, [install our GitHub app](../instructions/github-setup-instructions.md) or check out the [homepage](https://www.doubleloop.app/). 
 
 
 
