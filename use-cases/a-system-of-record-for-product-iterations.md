@@ -13,9 +13,20 @@ A SoT for product iterations consists of
 1. an accurate timeline of when product changes went live, and
 2. metadata describing each change.
 
+## Why do product builders need a SoT?
+
+A SoT for product iterations provides the data necessary for a variety of applications:
+
+* Correlate past product changes with changes to business metrics. Need to figure out why that metric spiked or dropped? Look in the SoT. 
+* Communicate product changes to internal stakeholders like sales, marketing, or customer success.
+* Showcase the impact of what you or your team has delivered to executives.
+* Understand progress towards product development goals.
+* Keep a record of hypotheses and results to feed a scientific product development process.
+* Generate a changelog or release notes for users.
+
 ## How is it different from a changelog or release notes?
 
-Companies produce changelogs or release notes to communicate the details of product changes to end-users. This is just one important application of your SoT for product iterations.
+Companies produce changelogs or release notes to communicate the details of product changes to end-users. As you can see from the above list, this is just one important application of your SoT for product iterations.
 
 ## What metadata do we need to describe product iterations?
 
@@ -35,17 +46,6 @@ Different companies care about different things, so it's up to each team to deci
 * Labels
 * List of stakeholders who requested the change
 * Audience-tailored messages \(what customers need to know, what sales needs to know, etc..\)
-
-## Why do product builders need a SoT?
-
-A SoT for product iterations provides the data necessary for a variety of applications:
-
-* Correlate past product changes with changes to business metrics. Need to figure out why that metric spiked or dropped? Look in the SoT. 
-* Communicate product changes to internal stakeholders like sales, marketing, or customer success.
-* Showcase the impact of what you or your team has delivered to executives.
-* Understand progress towards product development goals.
-* Keep a record of hypotheses and results to feed a scientific product development process.
-* Generate a changelog or release notes for users.
 
 ## Wait, doesn't a SoT already exist with other tools?
 
