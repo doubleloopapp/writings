@@ -1,5 +1,5 @@
 ---
-description: Learn how to facilitate a "launch review" meeting.
+description: Learn how to facilitate a "launch review" meetings.
 ---
 
 # A simple recipe that helps product teams improve
