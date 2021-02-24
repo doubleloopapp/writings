@@ -6,7 +6,7 @@ description: The first step to using DoubleLoop is to get your data flowing from
 
 Here's how to get started:
 
-1. Go here: [https://metaloop.app/](https://metaloop.app/)
+1. Go here:  [https://app.doubleloop.app/sign\_up](https://app.doubleloop.app/sign_up)
 2. Now you can create your account. You can either...
    1. Click the "create an account" link, or
    2. Click the button to sign up with GitHub.
