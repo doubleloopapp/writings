@@ -2,7 +2,7 @@
 description: Design your own system for automatically pushing product updates to Slack.
 ---
 
-# Sending filtered notifications to Slack
+# Our Slack integration
 
 DoubleLoop enables you to automatically communicate product changes via Slack. For example, you can use DoubleLoop to create real-time deployment notifications, curated launch announcements, and team-specific views. Check out this [demo video ](https://www.loom.com/share/17ad8cad783443e8b76cf680810b08de)to see it in action. 
 
@@ -12,17 +12,13 @@ This page covers how to:
 2. 🧤 Manually share DoubleLoop events in Slack.
 3. 🤖 Automatically send product updates to Slack based on filtered "views" of your engineering activity.
 
-If you haven't already created your DoubleLoop account or installed our GitHub app, go [here](https://doubleloop.gitbook.io/doubleloop/instructions/github-setup-instructions) first.
-
 ## ⚙ Integrate DoubleLoop with Slack
 
-1. Login to your DoubleLoop account at [https://metaloop.app/](https://metaloop.app/)
-2. Click the "settings" gear in the left nav.
-3. Click on "Integrations."
-4. Click "Install Slack app" and walk through the steps.
-5. When you're done, you should see the Slack integration appear on the list.
+1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
+2. After you're logged in, navigate to the Integration pages by clicking "Settings" in the left rail.
+3. Click the "Install Slack app" button and walk through the steps.
 
-![Integrations page](../.gitbook/assets/image.png)
+If you're concerned about granting access to your Slack account, please check out our [security page](https://www.doubleloop.app/security).
 
 ## 🧤 Manually share DoubleLoop events in Slack
 
@@ -33,7 +29,7 @@ While the unique power of DoubleLoop is to _automatically_ push product updates 
 3. Select the channel or DM you want to send it to.
 4. Click "Send to Slack".
 
-![The event view page](../.gitbook/assets/image%20%281%29.png)
+![The event view page in DoubleLoop.](../.gitbook/assets/screen-shot-2021-03-11-at-2.39.39-pm.png)
 
 A message like this will appear in your selected Slack channel:
 
@@ -41,11 +37,14 @@ A message like this will appear in your selected Slack channel:
 
 ## 🤖 Automatically send product updates to Slack
 
-The power of DoubleLoop is unleashed when you design your own system for automatically pushing product updates to Slack based on filtered views of your engineering activity.
+The power of DoubleLoop is unleashed when you design your own system for automatically pushing product updates to Slack based on filtered views of activity. 
 
-1. Start by creating a "view" that filters for the events you want to send to Slack. [From the events page](https://metaloop.app/events), use the filter options on the left until you see the relevant events. For example, you can search for only pull requests merged to your master branch.
-2. When you're happy with your filters, click the "+" button to the right of VIEWS. Enter a name and click "Save View." Now you will see it in your list of views.
-3. Click the icon to the right of the view to open a modal. In the modal, select a Slack channel or DM. \(Note: You might want to create a new Slack channel for the notifications. If so, you need to refresh the page to see the channel in the list.\)
+Here's how it works:
+
+1. Create filtered views \(see [instructions](filtering-and-saving-views.md)\). For example, you can create a view of just PRs merged to master or for the work of a particular team.
+2. Click the gear icon to the right of the view to open a modal. In the modal, select a Slack channel or DM. \(Note: You might want to create a new Slack channel for the notifications. If so, you need to refresh the page to see the channel in the list.\)
+
+![](../.gitbook/assets/screen-shot-2021-03-11-at-2.44.19-pm.png)
 
 Now, any new events that match the criteria for the view will be automatically sent to Slack! Create as many views as you want for any purpose. Teams have used DoubleLoop to create views for
 
@@ -53,9 +52,7 @@ Now, any new events that match the criteria for the view will be automatically s
 * company-wide product announcements,
 * the launches for each team.
 
-![Saving views and connecting them to Slack](../.gitbook/assets/image%20%282%29.png)
+## We'd love to help!
 
-## Give it a try!
-
-We'd love your help improving DoubleLoop! Email us at **support@doubleloop.app** with any problems, ideas, or questions.
+Do you want us to help you set up your dream system of Slack notifications? [Schedule an onboarding session](https://calendly.com/doubleloop/onboarding).
 

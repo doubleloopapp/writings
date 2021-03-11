@@ -4,8 +4,9 @@
 
 ## Instructions
 
-* [DoubleLoop GitHub app setup](instructions/github-setup-instructions.md)
-* [Sending filtered notifications to Slack](instructions/slack-setup.md)
+* [Filtering and saving "views"](instructions/filtering-and-saving-views.md)
+* [Our GitHub app](instructions/github-setup-instructions.md)
+* [Our Slack integration](instructions/slack-setup.md)
 
 ## Use Cases
 

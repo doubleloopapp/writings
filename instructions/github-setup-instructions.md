@@ -1,22 +1,43 @@
 ---
-description: The first step to using DoubleLoop is to get your data flowing from GitHub.
+description: >-
+  How engineering and product leaders stay knowledgeable about multiple
+  engineering streams.
 ---
 
-# DoubleLoop GitHub app setup
+# Our GitHub app
 
-Here's how to get started:
+## Overview
 
-1. Go here:  [https://app.doubleloop.app/sign\_up](https://app.doubleloop.app/sign_up)
-2. Now you can create your account. You can either...
-   1. Click the "create an account" link, or
-   2. Click the button to sign up with GitHub.
-3. After creating your account, you'll be asked to name your organization. Enter the name of your company and click "Create organization."
-4. Now let's connect your GitHub. Click the gear "Settings" icon in the left nav.
-5. Click "Integrations."
-6. Now click "Install GitHub App" and walk through the steps. If you're concerned about granting access to GitHub, please check out our [security page](https://www.doubleloop.app/security) for context.
-7. When you're done, you won't get a confirmation message. But if you go back to the integrations page, you'll see your GitHub integration like this:
+Most GitHub apps are designed to help engineers get their work done. This one is different. The DoubleLoop GitHub app helps engineering and product leaders stay in the loop with what their team is shipping. With DoubleLoop, you see only the important stuff without having to sift through a bunch of noise.
 
-![](../.gitbook/assets/screen-shot-2020-09-15-at-4.19.04-pm.png)
+Combined with DoubleLoop's [Slack integration](slack-setup.md) and ability to [save filtered "views," ](filtering-and-saving-views.md)DoubleLoop provides a powerful way to stay up-to-speed with product iterations.
 
-That's it! Now, your product iterations will flow into DoubleLoop with each PR or commit. After the data populates for a few days, you can [learn how to set up filtered Slack notifications](https://app.gitbook.com/@doubleloop/s/doubleloop/~/drafts/-MSjRHp3FpfVn0Dd7IS1/instructions/slack-setup).
+## How to install the GitHub app
+
+1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
+2. After you're logged in, navigate to the Integration pages by clicking "Settings" in the left rail.
+3. Click the "Install GitHub app" button and walk through the steps.
+
+**Important notes:**
+
+* If you're concerned about granting access to your GitHub account, please check out our [security page](https://www.doubleloop.app/security) for context.
+* While DoubleLoop is most powerful with all of your repositories connected, if you'd like to take a more cautious approach, you can start by connecting just one of your repos.
+
+## Ok, we installed it. Now what?
+
+DoubleLoop doesn't import historical data yet, but after your next pull request or commit, you'll see it appear on the [all events](https://app.doubleloop.app/events) page in DoubleLoop. They'll look like this:
+
+![What your GitHub events will look like.](../.gitbook/assets/screen-shot-2021-03-11-at-1.37.48-pm.png)
+
+Here are some more details about how it works:
+
+* By default, we set the "importance" of all events to "Medium." The exceptions are commits or PRs created by bots, like Dependabot. Bot events are downgraded automatically to "Minor" to give you a way to filter out the noise of library upgrades, etc.. However, you can use the pencil icon to adjust the importance however you want.
+* For each event, click the arrow to expand more information. You can see useful stuff like the list of commits contained in the PR and other details like the repo, branch,  contributors, and summary.
+* You can add more info in DoubleLoop by uploading images for events or clicking the pencil icon to add the business context like goals and results.
+
+## The real power
+
+After you have enough data in DoubleLoop, you can start creating some interesting filtered "views" of your GitHub data and connect them to Slack. We can help you set things up! Schedule an onboarding session [here](https://calendly.com/doubleloop/onboarding).
+
+But if you'd like to learn on your own,  see the page [Filtering and saving "views.](filtering-and-saving-views.md)"
 
