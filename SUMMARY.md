@@ -1,15 +1,20 @@
 # Table of contents
 
-* [The DoubleLoop vision](README.md)
+* [Welcome](README.md)
 
-## Instructions
+## The Vision
 
-* [Filtering and saving "views"](instructions/filtering-and-saving-views.md)
-* [Our GitHub app](instructions/github-setup-instructions.md)
-* [Our Slack integration](instructions/slack-setup.md)
+* [The DoubleLoop vision \(2021\)](the-vision/the-doubleloop-vision-2021.md)
+* [The original vision \(2015\)](the-vision/the-original-vision-2015.md)
 
 ## Use Cases
 
 * [Why you need a source-of-truth for product iterations](use-cases/a-system-of-record-for-product-iterations.md)
 * [A simple recipe that helps product teams improve](use-cases/a-simple-recipe-that-helps-product-teams-improve.md)
+
+## Instructions
+
+* [Filtering and saving "views"](instructions/filtering-and-saving-views.md)
+* [Our Slack integration](instructions/slack-setup.md)
+* [Our GitHub app](instructions/github-setup-instructions.md)
 
