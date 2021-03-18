@@ -8,7 +8,7 @@ description: This page describes the DoubleLoop problem space and solution.
 
 ## The problem
 
-Software companies struggle to run effective product initiatives which leads to poor outcomes.
+Software companies struggle to run effective product initiatives which lead to poor outcomes.
 
 * They waste money on initiatives that aren’t working
 * They miss product-led growth opportunities.
