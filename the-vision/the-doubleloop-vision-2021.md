@@ -26,7 +26,7 @@ However, as of now, there aren't any tools that
 
 Due to the tools gap, small teams accumulate tacit knowledge, but companies fail to learn at scale.
 
-![](../.gitbook/assets/screen-shot-2021-03-17-at-11.20.59-am.png)
+![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.06-pm.png)
 
 ### Product leaders feel the pain
 
@@ -38,7 +38,7 @@ Unable to drink from the firehose of the building and measurement tools, product
 * Fail to show their team’s impact.
 * Lose stakeholder confidence.
 
-![](../.gitbook/assets/screen-shot-2021-03-17-at-11.47.55-am.png)
+![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.25-pm.png)
 
 ## The solution: DoubleLoop is the only that platform that synthesizes data from the building and measurement tools.
 
@@ -46,7 +46,7 @@ DoubleLoop ingests data from the building and measurement tools, makes connectio
 
 DoubleLoop enables product leaders to understand the efficacy of their product initiatives so they can make the best bets moving forward. 
 
-![](../.gitbook/assets/screen-shot-2021-03-17-at-11.52.47-am.png)
+![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.17-pm.png)
 
 
 
