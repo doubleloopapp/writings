@@ -40,7 +40,7 @@ Unable to drink from the firehose of the building and measurement tools, product
 
 ![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.25-pm.png)
 
-## The solution: DoubleLoop is the only that platform that synthesizes data from the building and measurement tools.
+## The solution: DoubleLoop is the only platform that synthesizes data from the building and measurement tools.
 
 DoubleLoop ingests data from the building and measurement tools, makes connections, extracts the signal from the noise, and disseminates keys insights to the team.
 
