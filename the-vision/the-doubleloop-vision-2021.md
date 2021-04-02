@@ -38,7 +38,7 @@ Unable to drink from the firehose of the building and measurement tools, product
 * Fail to show their team’s impact.
 * Lose stakeholder confidence.
 
-![](../.gitbook/assets/screen-shot-2021-04-02-at-10.33.21-am.png)
+![](../.gitbook/assets/screen-shot-2021-04-02-at-12.43.18-pm.png)
 
 ## The solution: DoubleLoop is the only platform that synthesizes data from the building and measurement tools.
 
