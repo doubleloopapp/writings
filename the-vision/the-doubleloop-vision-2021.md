@@ -38,7 +38,7 @@ Unable to drink from the firehose of the building and measurement tools, product
 * Fail to show their team’s impact.
 * Lose stakeholder confidence.
 
-![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.25-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-02-at-10.33.21-am.png)
 
 ## The solution: DoubleLoop is the only platform that synthesizes data from the building and measurement tools.
 
@@ -46,7 +46,7 @@ DoubleLoop ingests data from the building and measurement tools, makes connectio
 
 DoubleLoop enables product leaders to understand the efficacy of their product initiatives so they can make the best bets moving forward. 
 
-![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.17-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-02-at-10.51.30-am.png)
 
 
 
