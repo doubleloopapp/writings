@@ -18,3 +18,8 @@
 * [Our Slack integration](instructions/slack-setup.md)
 * [Our GitHub app](instructions/github-setup-instructions.md)
 
+---
+
+* [Privacy Policy](https://doubleloop.app/privacy-policy)
+* [Terms of Use](https://doubleloop.app/terms-of-use)
+
