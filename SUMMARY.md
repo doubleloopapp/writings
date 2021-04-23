@@ -22,4 +22,5 @@
 
 * [Privacy Policy](https://doubleloop.app/privacy-policy)
 * [Terms of Use](https://doubleloop.app/terms-of-use)
+* [Contact support](mailto:support@doubleloop.app)
 
