@@ -15,8 +15,8 @@ This page covers how to:
 ## ⚙ Integrate DoubleLoop with Slack
 
 1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
-2. After you're logged in, navigate to the Integration pages by clicking "Settings" in the left rail.
-3. Click the "Install Slack app" button and walk through the steps.
+2. After you're logged in, navigate to the [integrations page](https://app.doubleloop.app/organizations/settings/integrations) by clicking "Integrations" in the left rail.
+3. Click the "Install Slack app" button in the "Learn" section and walk through the steps.
 
 If you're concerned about granting access to your Slack account, please check out our [security page](https://www.doubleloop.app/security).
 
