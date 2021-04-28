@@ -6,7 +6,7 @@ description: The power of DoubleLoop is in the views.
 
 ## Overview
 
-Different people care about different things. As a product or engineering leader, for example, you might care less about commits to a feature branch and more about a PR merged to master. Or maybe you want to stay in the loop with what each different product squad is shipping. The "views" feature in DoubleLoop provides you a way to filter for just what you want to see. Combined with our [GitHub app](github-setup-instructions.md) and [Slack integration](slack-setup.md), it's a powerful way to send the right notifications to the right people.
+Different people care about different things. As a product or engineering leader, for example, you might care less about commits to a feature branch and more about a PR merged to master. Or maybe you want to stay in the loop with what each different product squad is shipping. The "views" feature in DoubleLoop provides you a way to filter for just what you want to see. Combined with our [Jira app](our-jira-app.md), [GitHub app](github-setup-instructions.md), and [Slack integration](slack-setup.md), it's a powerful way to send the right notifications to the right people.
 
 The first step to creating views is filtering.
 

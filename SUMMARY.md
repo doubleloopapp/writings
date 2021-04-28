@@ -17,10 +17,12 @@
 * [Filtering and saving "views"](instructions/filtering-and-saving-views.md)
 * [Our Slack integration](instructions/slack-setup.md)
 * [Our GitHub app](instructions/github-setup-instructions.md)
+* [Our Jira app](instructions/our-jira-app.md)
 
 ---
 
 * [Privacy Policy](https://doubleloop.app/privacy-policy)
 * [Terms of Use](https://doubleloop.app/terms-of-use)
 * [Contact support](mailto:support@doubleloop.app)
+* [Security](https://doubleloop.app/security)
 

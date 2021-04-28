@@ -1,6 +1,6 @@
 ---
 description: >-
-  How engineering and product leaders stay knowledgeable about multiple
+  Learn how engineering and product leaders stay knowledgeable about multiple
   engineering streams.
 ---
 
@@ -15,7 +15,7 @@ Combined with DoubleLoop's [Slack integration](slack-setup.md) and ability to [s
 ## How to install the GitHub app
 
 1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
-2. After you're logged in, navigate to the Integration pages by clicking "Settings" in the left rail.
+2. After you're logged in, navigate to the Integration pages by clicking "Integrations" in the left rail.
 3. Click the "Install GitHub app" button and walk through the steps.
 
 **Important notes:**
