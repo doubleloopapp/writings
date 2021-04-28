@@ -46,7 +46,7 @@ DoubleLoop ingests data from the building and measurement tools, makes connectio
 
 DoubleLoop enables product leaders to understand the efficacy of their product initiatives so they can make the best bets moving forward. 
 
-![](../.gitbook/assets/screen-shot-2021-04-28-at-12.19.37-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-28-at-4.30.59-pm.png)
 
 
 
