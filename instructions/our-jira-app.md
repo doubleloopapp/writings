@@ -13,7 +13,7 @@ Jira is designed to help you get work done. It's not designed to help you track 
 1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
 2. After you're logged in, navigate to the Integration pages by clicking "Integrations" in the left rail.
 3. Click the "Install Jira app" button and walk through the steps.
-4. Now you need to add our webhook. Under your list of "Installed Integrations" at the bottom of the integrations page, click the "Setup" button in the Jira row. Copy your webhook to your clipboard.
+4. Now you need to add our webhook. Click the "Setup" button in the Jira tile and copy the webhook to your clipboard.
 5. Login to Jira. Add the webhook to your Jira account by going to the "Webhooks" page in System Settings.
 6. When you create the webhook, select the "created," "updated," and "deleted" checkboxes under "Issue" shown here:
 
