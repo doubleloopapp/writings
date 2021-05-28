@@ -26,7 +26,7 @@ However, as of now, there aren't any tools that
 
 Due to the tools gap, small teams accumulate tacit knowledge, but companies fail to learn at scale.
 
-![](../.gitbook/assets/screen-shot-2021-05-28-at-9.27.19-am.png)
+![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.06-pm.png)
 
 ### Product leaders feel the pain
 
@@ -46,11 +46,7 @@ DoubleLoop ingests data from the building and measurement tools, makes connectio
 
 DoubleLoop enables product leaders to understand the efficacy of their product initiatives so they can make the best bets moving forward. 
 
-![](../.gitbook/assets/screen-shot-2021-04-28-at-4.30.59-pm.png)
-
-
-
-
+![](../.gitbook/assets/screen-shot-2021-05-28-at-9.27.19-am.png)
 
 
 
