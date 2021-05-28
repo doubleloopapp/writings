@@ -26,7 +26,7 @@ However, as of now, there aren't any tools that
 
 Due to the tools gap, small teams accumulate tacit knowledge, but companies fail to learn at scale.
 
-![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.06-pm.png)
+![](../.gitbook/assets/screen-shot-2021-05-28-at-9.27.19-am.png)
 
 ### Product leaders feel the pain
 
