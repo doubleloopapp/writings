@@ -19,6 +19,14 @@ Jira is designed to help you get work done. It's not designed to help you track 
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
+If you'd like us to create a more comprehensive record, please select all of these checkboxes:
+
+![](../.gitbook/assets/screen-shot-2021-06-03-at-3.02.26-pm.png)
+
+And these too:
+
+![](../.gitbook/assets/screen-shot-2021-06-03-at-3.02.33-pm.png)
+
 ## Ok, we installed it. Now what?
 
 DoubleLoop doesn't import historical data yet, but after you change the status of an issue or create a new issue,  you'll see it appear on the [all events](https://app.doubleloop.app/events) page in DoubleLoop. After you have some data, try filtering by epic, label, team member, and/or issue status to [create some awesome views](filtering-and-saving-views.md).
