@@ -4,7 +4,7 @@ description: API documentation for the Analytics webhook.
 
 # Analytics Webhook
 
-{% api-method method="post" host="https://app.doubleloop.app" path="/zapier" %}
+{% api-method method="post" host="https://app.doubleloop.app" path="/api/metrics/v1" %}
 {% api-method-summary %}
 Create a metric data point
 {% endapi-method-summary %}
