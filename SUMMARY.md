@@ -18,7 +18,7 @@
 * [Our Slack integration](instructions/slack-setup.md)
 * [Our GitHub app](instructions/github-setup-instructions.md)
 * [Our Jira app](instructions/our-jira-app.md)
-* [Analytics webhook](instructions/analytics-webhook.md)
+* [Analytics Webhook](instructions/analytics-webhook-1.md)
 
 ---
 
