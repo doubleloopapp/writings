@@ -2,7 +2,7 @@
 description: Learn how PMs track the impact of their product initiatives.
 ---
 
-# Our Jira app
+# Jira integration
 
 ## Overview
 

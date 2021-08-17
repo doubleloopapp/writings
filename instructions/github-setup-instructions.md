@@ -4,7 +4,7 @@ description: >-
   engineering streams.
 ---
 
-# Our GitHub app
+# GitHub integration
 
 ## Overview
 

@@ -2,7 +2,7 @@
 description: Design your own system for automatically pushing product updates to Slack.
 ---
 
-# Our Slack integration
+# Slack integration
 
 DoubleLoop enables you to automatically communicate product changes via Slack. For example, you can use DoubleLoop to create real-time deployment notifications, curated launch announcements, and team-specific views. Check out this [demo video ](https://www.loom.com/share/17ad8cad783443e8b76cf680810b08de)to see it in action. 
 
