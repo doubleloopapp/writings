@@ -36,9 +36,9 @@ description: >-
 
 1. In DoubleLoop, go to the "All events" screen. You should see your metric in the "Metric" dropdown.
 
-   ![](../.gitbook/assets/image%20%286%29.png)
+   ![](.gitbook/assets/image%20%286%29.png)
 
-2. Click the gear icon for a view. In the 'Graph' section, select the metric. ****![](../.gitbook/assets/image%20%287%29.png) 
+2. Click the gear icon for a view. In the 'Graph' section, select the metric. ****![](.gitbook/assets/image%20%287%29.png) 
 
 Now, when you go to that view, you'll see it in the metrics menu.
 

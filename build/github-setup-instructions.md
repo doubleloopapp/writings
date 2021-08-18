@@ -10,7 +10,7 @@ description: >-
 
 Most GitHub apps are designed to help engineers get their work done. This one is different. The DoubleLoop GitHub app helps engineering and product leaders stay in the loop with what their team is shipping. With DoubleLoop, you see only the important stuff without having to sift through a bunch of noise.
 
-Combined with DoubleLoop's [Slack integration](slack-setup.md) and ability to [save filtered "views," ](filtering-and-saving-views.md)DoubleLoop provides a powerful way to stay up-to-speed with product iterations.
+Combined with DoubleLoop's [Slack integration](../slack-setup.md) and ability to [save filtered "views," ](../filtering-and-saving-views.md)DoubleLoop provides a powerful way to stay up-to-speed with product iterations.
 
 ## How to install the GitHub app
 
@@ -39,5 +39,5 @@ Here are some more details about how it works:
 
 After you have enough data in DoubleLoop, you can start creating some interesting filtered "views" of your GitHub data and connect them to Slack. We can help you set things up! Schedule an onboarding session [here](https://calendly.com/doubleloop/onboarding).
 
-But if you'd like to learn on your own,  see the page [Filtering and saving "views.](filtering-and-saving-views.md)"
+But if you'd like to learn on your own,  see the page [Filtering and saving "views.](../filtering-and-saving-views.md)"
 

@@ -29,11 +29,11 @@ While the unique power of DoubleLoop is to _automatically_ push product updates 
 3. Select the channel or DM you want to send it to.
 4. Click "Send to Slack".
 
-![The event view page in DoubleLoop.](../.gitbook/assets/screen-shot-2021-03-11-at-2.39.39-pm.png)
+![The event view page in DoubleLoop.](.gitbook/assets/screen-shot-2021-03-11-at-2.39.39-pm.png)
 
 A message like this will appear in your selected Slack channel:
 
-![Example Slack message.](../.gitbook/assets/screen-shot-2021-01-13-at-1.49.51-pm.png)
+![Example Slack message.](.gitbook/assets/screen-shot-2021-01-13-at-1.49.51-pm.png)
 
 ## 🤖 Automatically send product updates to Slack
 
@@ -44,7 +44,7 @@ Here's how it works:
 1. Create filtered views \(see [instructions](filtering-and-saving-views.md)\). For example, you can create a view of just PRs merged to master or for the work of a particular team.
 2. Click the gear icon to the right of the view to open a modal. In the modal, select a Slack channel or DM. \(Note: You might want to create a new Slack channel for the notifications. If so, you need to refresh the page to see the channel in the list.\)
 
-![](../.gitbook/assets/screen-shot-2021-03-11-at-2.44.19-pm.png)
+![](.gitbook/assets/screen-shot-2021-03-11-at-2.44.19-pm.png)
 
 Now, any new events that match the criteria for the view will be automatically sent to Slack! Create as many views as you want for any purpose. Teams have used DoubleLoop to create views for
 

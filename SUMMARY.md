@@ -7,18 +7,25 @@
 * [The DoubleLoop vision \(2021\)](the-vision/the-doubleloop-vision-2021.md)
 * [The original vision \(2015\)](the-vision/the-original-vision-2015.md)
 
-## Use Cases
+## Build
 
-* [Why you need a source-of-truth for product iterations](use-cases/a-system-of-record-for-product-iterations.md)
-* [A simple recipe that helps product teams improve](use-cases/a-simple-recipe-that-helps-product-teams-improve.md)
+* [GitHub integration](build/github-setup-instructions.md)
+* [Jira integration](build/our-jira-app.md)
 
-## Instructions
+## Measure
 
-* [Filtering and saving "views"](instructions/filtering-and-saving-views.md)
-* [Slack integration](instructions/slack-setup.md)
-* [GitHub integration](instructions/github-setup-instructions.md)
-* [Jira integration](instructions/our-jira-app.md)
-* [Looker integration](instructions/looker-integration.md)
+---
+
+* [Looker integration](looker-integration.md)
+
+## Learn & Communicate
+
+---
+
+* [Filtering and saving "views"](filtering-and-saving-views.md)
+* [Slack integration](slack-setup.md)
+
+## Other
 
 ---
 
