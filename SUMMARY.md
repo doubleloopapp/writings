@@ -24,6 +24,7 @@
 
 * [Filtering and saving "views"](filtering-and-saving-views.md)
 * [Slack integration](slack-setup.md)
+* [Private & public stakeholder views](private-and-public-stakeholder-views.md)
 
 ## Other
 
