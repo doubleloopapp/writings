@@ -2,7 +2,7 @@
 description: The original vision published on productlogic.org in 2015.
 ---
 
-# The original vision \(2015\)
+# The original vision (2015)
 
 Many fundamentals of product development are straightforward in theory but difficult to apply reliably in the real world. With each launch, teams should define clear objectives with measurable success criteria. They should communicate launch strategies and details to the broader company. After time passes, they should analyze whether a launch met success criteria. Periodically, teams should step back to evaluate the efficacy of their overall process and identify opportunities to improve.
 
@@ -15,4 +15,3 @@ DoubleLoop records a historical timeline of events related to a product or suite
 DoubleLoop provides a long-term memory store that will help new team members rapidly catchup with organizational learning. As contributors seem to be coming and going from companies at an increasing rate, DoubleLoop will ease the transitions between the old and the new. _DoubleLoop increases the value of a company’s launches by maximizing the amount of learning retained_.
 
 While the first target users for DoubleLoop are software development teams, the applications are broader. Any type of organization that would benefit from a recorded history will be able to leverage DoubleLoop.
-

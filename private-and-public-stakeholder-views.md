@@ -14,7 +14,7 @@ For every "view" in DoubleLoop, the system automatically creates a stakeholder v
 
 You can quickly navigate to the stakeholder view for any of your views via your dashboard.
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](<.gitbook/assets/image (12).png>)
 
 ## Controlling access
 
@@ -22,54 +22,16 @@ By default,  your stakeholder views are private such that login is required to a
 
 To go to the settings, click the gear icon for a view.
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](<.gitbook/assets/image (13).png>)
 
 In the settings modal, click "access."
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](<.gitbook/assets/image (14).png>)
 
 Here's how each access option works:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Access option</th>
-      <th style="text-align:left">When to use it</th>
-      <th style="text-align:left">How it works</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Private</td>
-      <td style="text-align:left">Use it when your view contains sensitive data that would be dangerous
-        to leak outside your company.</td>
-      <td style="text-align:left">
-        <p>Only users who are logged into DoubleLoop can access it.</p>
-        <p></p>
-        <p>The page will not be listed by search engines.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Private with token access</td>
-      <td style="text-align:left">Use it when you want to make it easy for a select group of stakeholders
-        or customers to access it without logging in, but you don&apos;t want it
-        to be fully public.</td>
-      <td style="text-align:left">
-        <p>To load the page, you need the correct token in the URL. If your URL with
-          the token gets in the wrong hands, let us know and we&apos;ll generate
-          a new token for you to expire the old links.</p>
-        <p></p>
-        <p>The page will not be listed by search engines.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Public</td>
-      <td style="text-align:left">Use it when you want to make your page accessible without login to your
-        customers or the general public.</td>
-      <td style="text-align:left">Anyone with the link can access it.
-        <br />
-        <br />Search engines can list it.</td>
-    </tr>
-  </tbody>
-</table>
-
+| Access option             | When to use it                                                                                                                                                  | How it works                                                                                                                                                                                                                                                |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Private                   | Use it when your view contains sensitive data that would be dangerous to leak outside your company.                                                             | <p>Only users who are logged into DoubleLoop can access it.</p><p></p><p>The page will not be listed by search engines.</p>                                                                                                                                 |
+| Private with token access | Use it when you want to make it easy for a select group of stakeholders or customers to access it without logging in, but you don't want it to be fully public. | <p>To load the page, you need the correct token in the URL. If your URL with the token gets in the wrong hands, let us know and we'll generate a new token for you to expire the old links.</p><p></p><p>The page will not be listed by search engines.</p> |
+| Public                    | Use it when you want to make your page accessible without login to your customers or the general public.                                                        | <p>Anyone with the link can access it.<br><br>Search engines can list it.</p>                                                                                                                                                                               |

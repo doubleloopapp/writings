@@ -27,7 +27,7 @@ Combined with DoubleLoop's [Slack integration](../slack-setup.md) and ability to
 
 DoubleLoop doesn't import historical data yet, but after your next pull request or commit, you'll see it appear on the [all events](https://app.doubleloop.app/events) page in DoubleLoop. They'll look like this:
 
-![What your GitHub events will look like.](../.gitbook/assets/screen-shot-2021-03-11-at-1.37.48-pm.png)
+![What your GitHub events will look like.](<../.gitbook/assets/Screen Shot 2021-03-11 at 1.37.48 PM.png>)
 
 Here are some more details about how it works:
 
@@ -40,4 +40,3 @@ Here are some more details about how it works:
 After you have enough data in DoubleLoop, you can start creating some interesting filtered "views" of your GitHub data and connect them to Slack. We can help you set things up! Schedule an onboarding session [here](https://calendly.com/doubleloop/onboarding).
 
 But if you'd like to learn on your own,  see the page [Filtering and saving "views.](../filtering-and-saving-views.md)"
-

@@ -2,7 +2,7 @@
 description: This page describes the DoubleLoop problem space and solution.
 ---
 
-# The DoubleLoop vision \(2021\)
+# The DoubleLoop vision (2021)
 
 ## Summary: DoubleLoop transforms how product leaders learn.
 
@@ -26,7 +26,7 @@ However, as of now, there aren't any tools that
 
 Due to the tools gap, small teams accumulate tacit knowledge, but companies fail to learn at scale.
 
-![](../.gitbook/assets/screen-shot-2021-03-18-at-2.05.06-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-03-18 at 2.05.06 PM.png>)
 
 ### Product leaders feel the pain
 
@@ -38,7 +38,7 @@ Unable to drink from the firehose of the building and measurement tools, product
 * Fail to show their team’s impact.
 * Lose stakeholder confidence.
 
-![](../.gitbook/assets/screen-shot-2021-04-02-at-12.43.18-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-04-02 at 12.43.18 PM.png>)
 
 ## The solution: DoubleLoop is the only platform that synthesizes data from the building and measurement tools.
 
@@ -46,7 +46,5 @@ DoubleLoop ingests data from the building and measurement tools, makes connectio
 
 DoubleLoop enables product leaders to understand the efficacy of their product initiatives so they can make the best bets moving forward. 
 
-![](../.gitbook/assets/screen-shot-2021-05-28-at-9.27.19-am.png)
-
-
+![](<../.gitbook/assets/Screen Shot 2021-05-28 at 9.27.19 AM.png>)
 

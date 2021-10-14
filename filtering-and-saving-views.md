@@ -14,23 +14,23 @@ The first step to creating views is filtering.
 
 To expand the filter options, click the "Create new view" button or filter icon.
 
-![How to expand the filter options](.gitbook/assets/screen-shot-2021-03-11-at-10.40.18-am.png)
+![How to expand the filter options](<.gitbook/assets/Screen Shot 2021-03-11 at 10.40.18 AM.png>)
 
 After the filter panel is open, you can do a text search or filter by the "importance" of events.
 
 A lot of the power of DoubleLoop comes from setting up integrations. If you've set up our [GitHub integration](build/github-setup-instructions.md), try typing stuff into the GitHub search box, like "Master."
 
-![Example: Searching for events in your master branch](.gitbook/assets/screen-shot-2021-03-11-at-10.48.04-am.png)
+![Example: Searching for events in your master branch](<.gitbook/assets/Screen Shot 2021-03-11 at 10.48.04 AM (1).png>)
 
 You can also search by repo or team member. When you've done a search, your active filters will appear at the top of the filter panel.
 
-![Active filter options](.gitbook/assets/screen-shot-2021-03-11-at-10.56.03-am.png)
+![Active filter options](<.gitbook/assets/Screen Shot 2021-03-11 at 10.56.03 AM.png>)
 
 ## Saving views
 
 When you've set a valuable filter or combination of filters, you can save it as a view. Just click the "Save current view" button. After giving it a name and saving it, it will appear in the left rail for future access.
 
-![The list of views](.gitbook/assets/screen-shot-2021-03-11-at-2.25.52-pm.png)
+![The list of views](<.gitbook/assets/Screen Shot 2021-03-11 at 2.25.52 PM.png>)
 
 Important: all members of your DoubleLoop organization will see the same list of views. So if you add a new view or delete one, it affects everyone.
 
@@ -41,4 +41,3 @@ This is where things get really interesting! You can use DoubleLoop to design yo
 ## We're happy to help set up your views!
 
 Are you unsure about the best way to set up views for your team? [Schedule an onboarding session](https://calendly.com/doubleloop/onboarding) and we can do it together!
-

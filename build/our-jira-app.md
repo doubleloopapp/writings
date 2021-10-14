@@ -17,15 +17,15 @@ Jira is designed to help you get work done. It's not designed to help you track 
 5. Login to Jira. Add the webhook to your Jira account by going to the "Webhooks" page in System Settings.
 6. When you create the webhook, select the "created," "updated," and "deleted" checkboxes under "Issue" shown here:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../.gitbook/assets/image (3).png>)
 
 If you'd like us to create a more comprehensive record, please select all of these checkboxes:
 
-![](../.gitbook/assets/screen-shot-2021-06-03-at-3.02.26-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-06-03 at 3.02.26 PM.png>)
 
 And these too:
 
-![](../.gitbook/assets/screen-shot-2021-06-03-at-3.02.33-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-06-03 at 3.02.33 PM.png>)
 
 ## Ok, we installed it. Now what?
 
@@ -33,5 +33,4 @@ DoubleLoop doesn't import historical data yet, but after you change the status o
 
 ## We're here to help
 
-After you set up our Jira integration, let us help you get started. [Schedule an onboarding session](https://calendly.com/doubleloop/onboarding?back=1&month=2021-04) and we can configure some powerful views together to create your ideal workflow. If you'd like, we'll teach you how to add your metrics to quantify the impact of your product initiatives.
-
+After you set up our Jira integration, let us help you get started. [Schedule an onboarding session](https://calendly.com/doubleloop/onboarding?back=1\&month=2021-04) and we can configure some powerful views together to create your ideal workflow. If you'd like, we'll teach you how to add your metrics to quantify the impact of your product initiatives.
