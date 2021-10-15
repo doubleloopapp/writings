@@ -17,6 +17,7 @@
 ***
 
 * [Looker integration](looker-integration.md)
+* [Upload metrics via a CSV file](upload-metrics-via-a-csv-file.md)
 
 ## Learn & Communicate
 
