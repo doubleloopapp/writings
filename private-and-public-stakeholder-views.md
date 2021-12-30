@@ -4,6 +4,8 @@ description: Learn how to make public or private release notes or changelogs.
 
 # Private & public stakeholder views
 
+<mark style="color:orange;">**Note: this page needs some updates.**</mark>
+
 ## Intro
 
 A big reason to use DoubleLoop is to quickly create views of your release notes, changelogs, or initiatives that you can share with your stakeholders or customers. This doc explains how it works.

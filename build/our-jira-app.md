@@ -4,13 +4,15 @@ description: Learn how PMs track the impact of their product initiatives.
 
 # Jira integration
 
+<mark style="color:orange;">**Note: this page needs some updates.**</mark>
+
 ## Overview
 
 Jira is designed to help you get work done. It's not designed to help you track previous launches or communicate wins to stakeholders. That's what DoubleLoop is for. You can use DoubleLoop to create a [source-of-truth for your product iterations](https://medium.com/swlh/why-you-need-a-source-of-truth-for-product-iterations-5bfc5997fb0f), quantify the impact of your product initiatives, and create [filtered views](../filtering-and-saving-views.md) of product updates tailored for different audiences.
 
 ### How to install the Jira app
 
-1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
+1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign\_up).
 2. After you're logged in, navigate to the Integration pages by clicking "Integrations" in the left rail.
 3. Click the "Install Jira app" button and walk through the steps.
 4. Now you need to add our webhook. Click the "Setup" button in the Jira tile and copy the webhook to your clipboard.

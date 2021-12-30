@@ -2,22 +2,25 @@
 
 * [Welcome](README.md)
 
-## The Vision
+## Strategy map
 
-* [The DoubleLoop vision (2021)](the-vision/the-doubleloop-vision-2021.md)
-* [The original vision (2015)](the-vision/the-original-vision-2015.md)
+* [Strategy map concepts](strategy-map/strategy-map-concepts.md)
+* [How to build your strategy map](strategy-map/how-to-build-your-strategy-map.md)
+* [Stats on your strategy map](strategy-map/stats-on-your-strategy-map.md)
 
-## Build
+## Metrics <a href="#measure" id="measure"></a>
 
-* [GitHub integration](build/github-setup-instructions.md)
+* [How to add metric data](measure/how-to-add-metric-data.md)
+* [Looker integration](measure/looker-integration.md)
+* [Upload metrics via a CSV file](measure/upload-metrics-via-a-csv-file.md)
+
+## Workstreams <a href="#build" id="build"></a>
+
+* [About workstreams](build/about-workstreams.md)
 * [Jira integration](build/our-jira-app.md)
-
-## Measure
-
-***
-
-* [Looker integration](looker-integration.md)
-* [Upload metrics via a CSV file](upload-metrics-via-a-csv-file.md)
+* [Shortcut integration](build/shortcut-integration.md)
+* [GitHub integration](build/github-setup-instructions.md)
+* [Zapier integration](build/zapier-integration.md)
 
 ## Learn & Communicate
 
@@ -27,6 +30,11 @@
 * [Slack integration](slack-setup.md)
 * [Private & public stakeholder views](private-and-public-stakeholder-views.md)
 * [Email digests](email-digests.md)
+
+## Our evolution <a href="#the-vision" id="the-vision"></a>
+
+* [The DoubleLoop vision (2021)](the-vision/the-doubleloop-vision-2021.md)
+* [The original vision (2015)](the-vision/the-original-vision-2015.md)
 
 ## Other
 

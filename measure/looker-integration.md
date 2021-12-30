@@ -32,4 +32,4 @@ description: >-
 
 4\. After that you will see the metric appear in your [metrics list](https://app.doubleloop.app/metrics). To see it on your strategy map, set the "Show on strategy map" toggle to the ON position.
 
-![](<.gitbook/assets/Screen Shot 2021-12-09 at 9.59.17 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-12-09 at 9.59.17 PM.png>)

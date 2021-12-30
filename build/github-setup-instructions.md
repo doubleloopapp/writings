@@ -6,6 +6,8 @@ description: >-
 
 # GitHub integration
 
+<mark style="color:orange;">**Note: this page needs some updates.**</mark>
+
 ## Overview
 
 Most GitHub apps are designed to help engineers get their work done. This one is different. The DoubleLoop GitHub app helps engineering and product leaders stay in the loop with what their team is shipping. With DoubleLoop, you see only the important stuff without having to sift through a bunch of noise.
@@ -14,7 +16,7 @@ Combined with DoubleLoop's [Slack integration](../slack-setup.md) and ability to
 
 ## How to install the GitHub app
 
-1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
+1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign\_up).
 2. After you're logged in, navigate to the Integration pages by clicking "Integrations" in the left rail.
 3. Click the "Install GitHub app" button and walk through the steps.
 

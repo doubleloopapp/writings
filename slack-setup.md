@@ -4,7 +4,9 @@ description: Design your own system for automatically pushing product updates to
 
 # Slack integration
 
-DoubleLoop enables you to automatically communicate product changes via Slack. For example, you can use DoubleLoop to create real-time deployment notifications, curated launch announcements, and team-specific views. Check out this [demo video ](https://www.loom.com/share/17ad8cad783443e8b76cf680810b08de)to see it in action. 
+<mark style="color:orange;">**Note: this page needs some updates.**</mark>
+
+DoubleLoop enables you to automatically communicate product changes via Slack. For example, you can use DoubleLoop to create real-time deployment notifications, curated launch announcements, and team-specific views. Check out this [demo video ](https://www.loom.com/share/17ad8cad783443e8b76cf680810b08de)to see it in action.&#x20;
 
 This page covers how to:
 
@@ -14,7 +16,7 @@ This page covers how to:
 
 ## :gear: Integrate DoubleLoop with Slack
 
-1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign_up).
+1. If you haven't already, [create your DoubleLoop account](https://app.doubleloop.app/sign\_up).
 2. After you're logged in, navigate to the [integrations page](https://app.doubleloop.app/organizations/settings/integrations) by clicking "Integrations" in the left rail.
 3. Click the "Install Slack app" button in the "Learn" section and walk through the steps.
 
@@ -37,7 +39,7 @@ A message like this will appear in your selected Slack channel:
 
 ## :robot: Automatically send product updates to Slack
 
-The power of DoubleLoop is unleashed when you design your own system for automatically pushing product updates to Slack based on filtered views of activity. 
+The power of DoubleLoop is unleashed when you design your own system for automatically pushing product updates to Slack based on filtered views of activity.&#x20;
 
 Here's how it works:
 
