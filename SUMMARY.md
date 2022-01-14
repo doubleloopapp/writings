@@ -12,6 +12,7 @@
 
 * [How to add metric data](measure/how-to-add-metric-data.md)
 * [Looker integration](measure/looker-integration.md)
+* [Google Analytics integration via Zapier](measure/google-analytics-integration-via-zapier.md)
 * [Upload metrics via a CSV file](measure/upload-metrics-via-a-csv-file.md)
 
 ## Workstreams <a href="#build" id="build"></a>
