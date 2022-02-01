@@ -14,7 +14,7 @@ This is not as easy as we want it to be. If you run into bumps, send us an Inter
 
 With these instructions, you will setup a daily job to send a specific metric from Google Analytics to DoubleLoop every day at a time of your choosing.
 
-**1. Open the template of the zap** by clicking [here](https://zapier.com/app/editor/118237268/nodes/118237268/fields).
+**1. Open the template of the zap** by clicking [here](https://zapier.com/webintent/create-zap?template=600472).
 
 **2. Set the trigger.** The default is for it to run every day, including weekends, at 4am. There's no need to change this.
 
