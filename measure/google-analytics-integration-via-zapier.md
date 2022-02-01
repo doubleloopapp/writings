@@ -4,7 +4,7 @@ description: Learn how to add Google Analytics metrics to DoubleLoop through Zap
 
 # Google Analytics integration via Zapier
 
-We don't have a native integration with Google Analytics yet. But you can get metrics into DoubleLoop from Google Analytics through Zapier.
+If you need metrics from Google Analytics that aren't provided by our Google Analytics integration you can also get metrics into DoubleLoop from Google Analytics through Zapier.
 
 This is not as easy as we want it to be. If you run into bumps, send us an Intercom message or [schedule a time with us](https://calendly.com/doubleloop/metric-service) and we can do it together.
 
