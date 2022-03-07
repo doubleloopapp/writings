@@ -32,4 +32,4 @@ Every night, DoubleLoop will populate data for your metric based on the query yo
 
 Unfortunately, at this point in time, there's no way to see the data the nightly job runs. For this reason, as we recommended above, we suggest verifying the query in BigQuery first.
 
-That's it. Please let us know your feedback.
+That's it. Please let us know your feedback. If you have any questions, please contact us.
