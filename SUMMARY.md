@@ -13,6 +13,7 @@
 * [How to add metric data](measure/how-to-add-metric-data.md)
 * [Looker integration](measure/looker-integration.md)
 * [BigQuery integration](measure/bigquery-integration.md)
+* [Google Analytics integration](measure/google-analytics-integration.md)
 * [Google Analytics integration via Zapier](measure/google-analytics-integration-via-zapier.md)
 * [Google Sheets via Zapier](measure/google-sheets-via-zapier.md)
 * [Excel (Online) via Zapier](measure/excel-online-via-zapier.md)
