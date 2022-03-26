@@ -4,15 +4,39 @@ description: Learn how to get historical metric data into DoubleLoop.
 
 # Upload metrics via a CSV file
 
-## How it works
+Our CSV upload tool is a great way to get a lot of metric data into DoubleLoop without intregrating your tools or using our API. Here's how to do it:
 
-Start by downloading this Excel file:
+#### **1. Prepare your CSV file.**
 
-{% file src="../.gitbook/assets/Example Metrics CSV Upload File (1).xlsx" %}
+Download an example file here:
 
-1. Fill out the spreadsheet with a row for each metric, date, and value. You can do many metrics in one file.
-2. Share the spreadsheet with your contact at DoubleLoop team or email support@doubleloop.app.
-3. We'll let you know when the upload is complete. All of the metrics will be available to see as line graphs in DoubleLoop.
-4. We're happy to upload and re-upload as frequently as you'd like to update your metrics data.
+{% file src="../.gitbook/assets/Example.csv" %}
 
-Apologies that this CSV upload feature isn't self-serve yet! If we see sufficient demand for this feature, we'll add a serve-serve option.
+The file looks like this:
+
+![](<../.gitbook/assets/CleanShot 2022-03-25 at 17.15.05@2x.png>)
+
+Or like this if you open it in Excel:
+
+![](<../.gitbook/assets/CleanShot 2022-03-25 at 17.09.55@2x.png>)
+
+Replace the dates and values with the data you'd like to upload and save the file.
+
+<mark style="color:green;">**Some important notes:**</mark>
+
+1. <mark style="color:green;">**Use the date format yyyy-mm-dd**</mark>
+2. <mark style="color:green;">**Make sure you leave "date" and "value" as the headers.**</mark>
+
+**2. Go to the metric in DoubleLoop.**
+
+You can navigate to the metric either from your strategy map or the metric listings page.
+
+#### 3. Click "Upload CSV."
+
+![](<../.gitbook/assets/CleanShot 2022-03-25 at 17.20.40@2x.png>)
+
+#### 4. Upload the file.
+
+After you update the file, you'll need to refresh the page to see the data you uploaded.
+
+That's it! If you run into problems, we're happy to help. Reach out via the "support" link in the left nav, email, or Slack.
