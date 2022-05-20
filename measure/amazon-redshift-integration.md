@@ -1,5 +1,5 @@
 ---
-description: Learn how to populate metrics in DoubleLoop via Redshift.
+description: Learn how to populate metrics in DoubleLoop via Amazon Redshift.
 ---
 
 # Amazon Redshift integration
@@ -10,17 +10,17 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 
 ## Part 1: **Create a "Metric source"**
 
-1.  Get your #{SERVICE} Host, Port, Database Name, Username, and Password ready, or ask your IT team for assistance in getting this information for your #{SERVICE} instance.
+1.  Get your Amazon Redshift Host, Port, Database Name, Username, and Password ready, or ask your IT team for assistance in getting this information for your Amazon Redshift instance.
 
-    <mark style="color:red;">**Important**</mark><mark style="color:red;">: Your IT team will also need to make sure the #{SERVICE} instance is reachable over the internet.</mark>
+    <mark style="color:red;">**Important**</mark><mark style="color:red;">: Your IT team will also need to make sure the Amazon Redshift instance is reachable over the internet.</mark>
 2. In DoubleLoop, go to the page for Metric Sources: [https://app.doubleloop.app/metric\_sources](https://app.doubleloop.app/metric\_sources)
 3. Click "Add metric" source.
 4. Enter a name for the metric source and optionally a description. The metric source name should be specific to a particular metric you want to create. E.g., it should be something like "# of new subscribers" as opposed to something more generic like "Redshift."
 5. Choose "Amazon Redshift" as the source.
-6. If a metric already exists that you would like to populate with data from this metric source, enter it into the"Target metric" field. Otherwise, you can connect this metric source to a metric later.
-7. Fill in your Host with either the domain name or ip address of your #{SERVICE} instance.
-8. Fill in the Port with your port, the default for #{SERVICE} is #{Postgres: 5432, Redshift: 5439}.
-9. Fill in your #{SERVICE} database name, username, and password.
+6. If a metric already exists that you would like to populate with data from this metric source, enter it into the "Target metric" field. Otherwise, you can connect this metric source to a metric later.
+7. Fill in your Host with either the domain name or IP address of your Amazon Redshift instance.
+8. Fill in the Port with your port, the default for Amazon Redshift is 5439.
+9. Fill in your Amazon Redshift database name, username, and password.
 10. Input the query into DoubleLoop. The output of the query must contain columns named "date" and "value". We recommend that you test out the query in Redshift before you input it into DoubleLoop.
 11. Click "Save".
 
