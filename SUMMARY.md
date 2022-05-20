@@ -13,6 +13,7 @@
 * [How to add metric data](measure/how-to-add-metric-data.md)
 * [Looker integration](measure/looker-integration.md)
 * [BigQuery integration](measure/bigquery-integration.md)
+* [Amazon Redshift integration](measure/amazon-redshift-integration.md)
 * [Google Analytics integration](measure/google-analytics-integration.md)
 * [Google Analytics integration via Zapier](measure/google-analytics-integration-via-zapier.md)
 * [Google Sheets via Zapier](measure/google-sheets-via-zapier.md)
