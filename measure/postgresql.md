@@ -12,7 +12,7 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 
 1.  Get your PostgreSQL Host, Port, Database Name, Username, and Password ready, or ask your IT team for assistance in getting this information for your PostgreSQL instance.
 
-    <mark style="color:red;">**Important**</mark><mark style="color:red;">: Your IT team will also need to make sure the</mark> PostgreSQL <mark style="color:red;">instance is reachable over the internet.</mark>
+    <mark style="color:red;">**Important**</mark><mark style="color:red;">: Your IT team will also need to make sure the PostgreSQL instance is reachable over the internet.</mark>
 2. In DoubleLoop, go to the page for Metric Sources: [https://app.doubleloop.app/metric\_sources](https://app.doubleloop.app/metric\_sources)
 3. Click "Add metric" source.
 4. Enter a name for the metric source and optionally a description. The metric source name should be specific to a particular metric you want to create. E.g., it should be something like "# of new subscribers" as opposed to something more generic like "PostgreSQL"
