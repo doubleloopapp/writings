@@ -11,13 +11,14 @@
 ## Metrics <a href="#measure" id="measure"></a>
 
 * [How to add metric data](measure/how-to-add-metric-data.md)
-* [Looker integration](measure/looker-integration.md)
-* [BigQuery integration](measure/bigquery-integration.md)
 * [Amazon Redshift integration](measure/amazon-redshift-integration.md)
+* [BigQuery integration](measure/bigquery-integration.md)
+* [Excel (Online) via Zapier](measure/excel-online-via-zapier.md)
 * [Google Analytics integration](measure/google-analytics-integration.md)
 * [Google Analytics integration via Zapier](measure/google-analytics-integration-via-zapier.md)
 * [Google Sheets via Zapier](measure/google-sheets-via-zapier.md)
-* [Excel (Online) via Zapier](measure/excel-online-via-zapier.md)
+* [Looker integration](measure/looker-integration.md)
+* [PostgreSQL](measure/postgresql.md)
 * [Upload metrics via a CSV file](measure/upload-metrics-via-a-csv-file.md)
 
 ## Workstreams <a href="#build" id="build"></a>
