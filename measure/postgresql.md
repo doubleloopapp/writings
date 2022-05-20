@@ -19,7 +19,7 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 5. Choose "PostgreSQL" as the source.
 6. If a metric already exists that you would like to populate with data from this metric source, enter it into the "Target metric" field. Otherwise, you can connect this metric source to a metric later.
 7. Fill in your Host with either the domain name or IP address of your PostgreSQL instance.
-8. Fill in the Port with your port, the default for PostgreSQL is 5439.
+8. Fill in the Port with your port, the default for PostgreSQL is 5432.
 9. Fill in your PostgreSQL database name, username, and password.
 10. Input the query into DoubleLoop. The output of the query must contain columns named "date" and "value". We recommend that you test out the query in PostgreSQL before you input it into DoubleLoop.
 11. Click "Save".
