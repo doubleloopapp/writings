@@ -13,7 +13,7 @@
 * [How to add metric data](measure/how-to-add-metric-data.md)
 * [Amazon Redshift integration](measure/amazon-redshift-integration.md)
 * [BigQuery integration](measure/bigquery-integration.md)
-* [CSV file upload](measure/csv-file-upload.md)
+* [CSV file upload](measure/upload-metrics-via-a-csv-file.md)
 * [Excel (Online) via Zapier](measure/excel-online-via-zapier.md)
 * [Google Analytics integration](measure/google-analytics-integration.md)
 * [Google Analytics integration via Zapier](measure/google-analytics-integration-via-zapier.md)

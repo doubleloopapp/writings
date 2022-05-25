@@ -28,7 +28,7 @@ Check out our [Metrics API doc](https://app.doubleloop.app/apidocs/1.0/zapier/cr
 
 ## CSV upload
 
-Learn about it [here](csv-file-upload.md).
+Learn about it [here](upload-metrics-via-a-csv-file.md).
 
 ## We'll do it for you!
 
