@@ -1,10 +1,17 @@
 ---
-description: Learn how to get historical metric data into DoubleLoop.
+description: Learn how to upload metric data into DoubleLoop with CSV files.
 ---
 
-# Upload metrics via a CSV file
+# CSV file upload
 
-Our CSV upload tool is a great way to get a lot of metric data into DoubleLoop without intregrating your tools or using our API. Here's how to do it:
+Our CSV upload tool is a great way to get a lot of metric data into DoubleLoop without integrating your tools or using our API.
+
+There are two ways to use CSV upload in DoubleLoop:
+
+* Upload data points for an individual metric.
+* Upload data points for many metrics at once.
+
+## Upload data points for an individual metric
 
 #### **1. Prepare your CSV file.**
 
@@ -39,4 +46,22 @@ You can navigate to the metric either from your strategy map or the metric listi
 
 After you update the file, you'll need to refresh the page to see the data you uploaded.
 
-That's it! If you run into problems, we're happy to help. Reach out via the "support" link in the left nav, email, or Slack.
+## Upload data points for many metrics at once
+
+#### **1. Prepare your CSV file.**
+
+Download an example file here:
+
+{% file src="../.gitbook/assets/batch_upload.csv" %}
+
+The file looks like this:
+
+![](<../.gitbook/assets/CleanShot 2022-05-25 at 15.56.58@2x.png>)
+
+Or like this if you open it in Excel:
+
+![](<../.gitbook/assets/CleanShot 2022-05-25 at 16.00.02@2x.png>)
+
+Each row contains a metric id, date, and value. You can find the metric id&#x20;
+
+![](<../.gitbook/assets/CleanShot 2022-05-25 at 16.02.34@2x.png>)

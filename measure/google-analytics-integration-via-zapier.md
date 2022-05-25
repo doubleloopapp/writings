@@ -74,4 +74,4 @@ With these instructions, you will setup a daily job to send a specific metric fr
 
 Phew, you're done! Moving forward, every night a data point will be added to DoubleLoop for the Google Analytics metric you chose.
 
-Your historical metric data won't be there yet, unfortunately. However, we can help you with a [CSV upload](upload-metrics-via-a-csv-file.md) to get your historical data in there.
+Your historical metric data won't be there yet, unfortunately. However, we can help you with a [CSV upload](csv-file-upload.md) to get your historical data in there.

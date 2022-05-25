@@ -17,8 +17,8 @@ Sometimes it's easiest to enter data by hand. Here's how to do it:
 
 ## Tool integration
 
-1. DoubleLoop has native integration with [Looker](https://looker.com). Learn about it [here](looker-integration.md).
-2. We integrate with Google Analytics via [Zapier](https://zapier.com). Check out the [DoubleLoop/GA Zapier template](https://zapier.com/webintent/create-zap?template=600472) (requires signing into Zapier).
+1. DoubleLoop has native integration with [Looker](https://looker.com/). Learn about it [here](looker-integration.md).
+2. We integrate with Google Analytics via [Zapier](https://zapier.com/). Check out the [DoubleLoop/GA Zapier template](https://zapier.com/webintent/create-zap?template=600472) (requires signing into Zapier).
 
 What analytics tool integrations would you like to see? Let us know via Intercom in the lower right.
 
@@ -28,7 +28,7 @@ Check out our [Metrics API doc](https://app.doubleloop.app/apidocs/1.0/zapier/cr
 
 ## CSV upload
 
-Learn about it [here](upload-metrics-via-a-csv-file.md).
+Learn about it [here](csv-file-upload.md).
 
 ## We'll do it for you!
 
