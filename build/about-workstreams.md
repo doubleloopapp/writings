@@ -40,5 +40,5 @@ DoubleLoop makes it efficient for stakeholders to follow along with what's happe
 
 While you can record events in your workstreams manually, the best way to do it is through integrations with your tools. That way, you can keep your finger on the pulse of activity without any extra data entry.
 
-Learn about our [Jira](our-jira-app.md), [Shortcut](shortcut-integration.md), [GitHub](github-setup-instructions.md), and [Zapier integrations](zapier-integration.md).
+Learn about our [Jira](our-jira-app.md), [Shortcut](shortcut-integration.md), [Linear](linear-integration.md), [GitHub](github-setup-instructions.md), and [Zapier integrations](zapier-integration.md).
 
