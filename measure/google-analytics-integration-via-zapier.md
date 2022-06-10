@@ -32,7 +32,7 @@ With these instructions, you will setup a daily job to send a specific metric fr
 
 ![](<../.gitbook/assets/Screen Shot 2022-01-13 at 8.51.00 PM.png>)
 
-**5. Click "Setup action."**&#x20;
+**5. Click "Setup action."**
 
 * Configure "Account," "Property," and "View (Profile)" as you see fit.
 * <mark style="color:red;">**Don't edit the "Start date" and "End date" fields**</mark>. These fields indicate that the Zap will grab data from the previous day.
@@ -51,7 +51,7 @@ With these instructions, you will setup a daily job to send a specific metric fr
 * Follow the instructions to connect to your DoubleLoop account.
 * <mark style="color:red;">**Do not change "Action Event" from "Add Analytic."**</mark>
 
-![](<../.gitbook/assets/Screen Shot 2022-01-13 at 9.03.45 PM (2).png>)
+![](<../.gitbook/assets/Screen Shot 2022-01-13 at 9.03.45 PM (2) (1).png>)
 
 **8. Click "Choose account" to set up the action.**
 
@@ -66,7 +66,7 @@ With these instructions, you will setup a daily job to send a specific metric fr
 
 **10. Login into DoubleLoop and go to the** [**metrics page**](https://app.doubleloop.app/metrics)**.** You should see a metric with the name you specified in Zapier. If you click on the metric, you should see the data point from your Zapier test.
 
-****![](<../.gitbook/assets/Screen Shot 2022-01-13 at 9.26.45 PM.png>)****
+![](<../.gitbook/assets/Screen Shot 2022-01-13 at 9.26.45 PM.png>)
 
 **11. To add the metric to your strategy map,** open the "Settings" for the metric. Toggle the "Show on strategy map" setting to on.
 
