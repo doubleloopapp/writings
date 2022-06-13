@@ -11,6 +11,7 @@
 ## Metrics <a href="#measure" id="measure"></a>
 
 * [How to add metric data](measure/how-to-add-metric-data.md)
+* [Control the stats on your strategy map](measure/control-the-stats-on-your-strategy-map.md)
 * [Amazon Redshift integration](measure/amazon-redshift-integration.md)
 * [BigQuery integration](measure/bigquery-integration.md)
 * [CSV file upload](measure/upload-metrics-via-a-csv-file.md)
