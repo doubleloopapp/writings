@@ -31,6 +31,8 @@ Choosing the right roll-up calculation depends on the nature of the metric. Here
 
 ## Change percentages
 
+![](<../.gitbook/assets/CleanShot 2022-06-12 at 20.59.51@2x.png>)
+
 The percentages that appear beneath each metric stat show how the metric performed compared to the previous period of the same length.
 
 For example, if the roll-up value for the metric is 5 in the last seven days and was 4 in the seven days prior, the change percentage would be 25%.
