@@ -22,6 +22,7 @@
 * [Google Sheets via Zapier](measure/google-sheets-via-zapier.md)
 * [Looker integration](measure/looker-integration.md)
 * [PostgreSQL](measure/postgresql.md)
+* [Snowflake integration](measure/amazon-redshift-integration-1.md)
 
 ## Workstreams <a href="#build" id="build"></a>
 
