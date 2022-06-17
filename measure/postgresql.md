@@ -12,7 +12,7 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 
 1.  Get your PostgreSQL Host, Port, Database Name, Username, and Password ready, or ask your IT team for assistance in getting this information for your PostgreSQL instance.
 
-    <mark style="color:red;">**Important**</mark><mark style="color:red;">: You will need to make sure the PostgreSQL instance is reachable over the internet.</mark>
+    <mark style="color:red;">**Important**</mark><mark style="color:red;">: Your IT team will also need to make sure the PostgreSQL instance is reachable over the internet.</mark>
 2. In DoubleLoop, go to the page for Metric Sources: [https://app.doubleloop.app/metric\_sources](https://app.doubleloop.app/metric\_sources)
 3. Click "Add metric" source.
 4. Enter a name for the metric source and optionally a description. The metric source name should be specific to a particular metric you want to create. E.g., it should be something like "# of new subscribers" as opposed to something more generic like "PostgreSQL"
@@ -33,6 +33,8 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 
 ## Part 3: Confirm it worked
 
-Every night, DoubleLoop will populate data for your metric based on the query you specified for the metric source. So you should see your metric data tomorrow. In the meantime, you can click "Run" to test it.
+Every night, DoubleLoop will populate data for your metric based on the query you specified for the metric source. So you should see your metric data tomorrow.
+
+Unfortunately, at this point in time, there's no way to see the data the nightly job runs. For this reason, as we recommended above, we suggest verifying the query in PostgreSQL first.
 
 That's it. Please let us know your feedback. If you have any questions, please contact us.
