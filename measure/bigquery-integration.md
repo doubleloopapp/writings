@@ -28,6 +28,8 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 
 ## Part 3: Confirm it worked
 
-Every night, DoubleLoop will populate data for your metric based on the query you specified for the metric source. So you should see your metric data tomorrow. In the meantime, you can click "Run" to test it.
+Every night, DoubleLoop will populate data for your metric based on the query you specified for the metric source. So you should see your metric data tomorrow.
+
+Unfortunately, at this point in time, there's no way to see the data the nightly job runs. For this reason, as we recommended above, we suggest verifying the query in BigQuery first.
 
 That's it. Please let us know your feedback. If you have any questions, please contact us.
