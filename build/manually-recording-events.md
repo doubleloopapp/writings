@@ -1,5 +1,5 @@
 ---
-description: Some tips on manually recording events in DoubleLoop.
+description: Learn about manually recording events in DoubleLoop.
 ---
 
 # Manually recording events
