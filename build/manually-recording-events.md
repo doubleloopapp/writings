@@ -76,6 +76,10 @@ When new workstreams are created, by default they are assigned a label based on 
 
 A benefit to using workstreams is that you can share release notes with stakeholders. Check out [our changelog](https://app.doubleloop.app/changelogs/impact-log), as an example.
 
+## Looking record events automatically?
+
+You can record events automatically based on your tool activity. Check out the integrations under "Workstreams" in the left nav. Or you can use the [events endpoint in the DoubleLoop API](https://app.doubleloop.app/apidocs/1.0/zapier/create\_entity.html) to record events.
+
 
 
 
