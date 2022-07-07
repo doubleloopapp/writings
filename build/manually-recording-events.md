@@ -72,11 +72,11 @@ The [All events](https://app.doubleloop.app/events) page has every event that ha
 
 [Workstreams](about-workstreams.md) are filtered views of events that normally correspond to projects, initiatives, or teams; e.g., customer acquisition, UX improvements, and marketing campaigns.
 
-When new workstreams are created, by default they are assigned a label based on the name of the workstream. You can change the workstream filters as desired.
+When new workstreams are created, by default they are assigned a label based on the name of the workstream. You can change the workstream filters as desired. If a workstream has no filters applied to it, all events will be visible in that workstream
 
 A benefit to using workstreams is that you can share release notes with stakeholders. Check out [our changelog](https://app.doubleloop.app/changelogs/impact-log), as an example.
 
-## Looking record events automatically?
+## Looking to record events automatically?
 
 You can record events automatically based on your tool activity. Check out the integrations under "Workstreams" in the left nav. Or you can use the [events endpoint in the DoubleLoop API](https://app.doubleloop.app/apidocs/1.0/zapier/create\_entity.html) to record events.
 
