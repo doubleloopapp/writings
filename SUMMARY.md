@@ -27,6 +27,7 @@
 ## Workstreams <a href="#build" id="build"></a>
 
 * [About workstreams](build/about-workstreams.md)
+* [Manually recording events](build/manually-recording-events.md)
 * [Jira integration](build/our-jira-app.md)
 * [Shortcut integration](build/shortcut-integration.md)
 * [GitHub integration](build/github-setup-instructions.md)
