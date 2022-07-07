@@ -15,9 +15,19 @@ This question is largely answered on the [About workstreams](about-workstreams.m
 1. Understand how different events impact metrics.
 2. Communicate product releases or other activities to stakeholders.
 
+## What types of events should you record?
+
+It's entirely up to you. If the event could have impacted your business, record it!
+
+The most common type of recorded events are product changes, like feature enhancements, product launches, or bug fixes.
+
+However, many companies record events for all types of work; marketing campaigns, sales, business development, customer success, engineering, etc.
+
+You can record events for things you control and for things that you don't control. For example, if the beginning of Covid or the war in Ukraine impacted your business, record it.
+
 ## Adding events
 
-There are two places where you can create events.
+There are two places where you can manually create events.
 
 ### Adding events from the "All events" page
 
@@ -37,18 +47,18 @@ If the workstream has a label assigned to it, the event will automatically have 
 
 Here's a quick explanation of each event field. All of the fields are optional except for the title, data, and importance.
 
-* **Event title**. The headline that appears whereever the event info is displayed. Example: "Homepage redesign went live."
+* **Event title**. The headline that appears wherever the event info is displayed. Example: "Homepage redesign went live."
 * **When did the event occur**. The date of the event. Example: the date the product enhancement was released.
 * **Importance**. The significance of the event. It determines how prominently the event is displayed in some views.
-* **Impact.** When you set the impact for an event, it will appear as an annotation in the timeline on the workstream and all events pages. Positive impact displays in red. Negative impact displays in green.
+* **Impact.** When you set the impact for an event, it will appear as an annotation in the timeline on the workstream and all events pages. Positive impact displays in green. Negative impact displays in red.
 * **Summary**. A description of the event.
-* **Goal / Hypothesis**. When applicable, explain why the change was made. For example: "Our hypothesis is that, by making the button bigger, conversion rate will increase."
+* **Goal / Hypothesis**. When applicable, explain why the change was made. For example: "Our hypothesis is that, by making the button bigger, the conversion rate will increase."
 * **Results**. After time passes, you can record the impact of the change. Example: "The conversion rate increased from 2% to 3%.
 * **Type**. Record if the change was a fix, enhancement, chore, improvement, etc..
 * **URL title.** A call-to-action to learn more about the event. Example: "Watch the demo!"
-* **URL.** The URL where you can learn more, corresponding with the event title.
+* **URL.** The URL where you can learn more, corresponding with the URL title.
 * **Labels**. Make it easy to find the event later or add the event to a workstream that filters by label.
-* **Contributors**. List the people who worked on the change; the PM, engineer, designer, etc..
+* **Contributors**. List the people who worked on the change; the PM, engineer, designer, etc. Give props!
 
 
 
@@ -56,13 +66,15 @@ Here's a quick explanation of each event field. All of the fields are optional e
 
 ### All events page
 
-The [All events](https://app.doubleloop.app/events) page has every event that has been recorded. You can filter events to drill down as desired. The metric dropdown has your full list of metrics so you can analyze the impact of events on metrics.
+The [All events](https://app.doubleloop.app/events) page has every event that has been recorded. You can filter events to drill down as desired. The metric dropdown has your full list of metrics so you can analyze the impact of events on any metric.
 
 ### Workstreams
 
-[Workstreams](about-workstreams.md) are filtered views of events that normally correspond to projects, initiatives, or teams; e.g., customer acquisition, UX improvements, marketing campaigns.
+[Workstreams](about-workstreams.md) are filtered views of events that normally correspond to projects, initiatives, or teams; e.g., customer acquisition, UX improvements, and marketing campaigns.
 
 When new workstreams are created, by default they are assigned a label based on the name of the workstream. You can change the workstream filters as desired.
+
+A benefit to using workstreams is that you can share release notes with stakeholders. Check out [our changelog](https://app.doubleloop.app/changelogs/impact-log), as an example.
 
 
 
