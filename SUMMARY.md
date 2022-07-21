@@ -21,6 +21,8 @@
 * [Google Analytics integration via Zapier](measure/google-analytics-integration-via-zapier.md)
 * [Google Sheets via Zapier](measure/google-sheets-via-zapier.md)
 * [Looker integration](measure/looker-integration.md)
+* [Mixpanel](measure/mixpanel-integration.md)
+* [MySQL](measure/mysql-integration.md)
 * [PostgreSQL](measure/postgresql.md)
 * [Snowflake integration](measure/snowflake-integration.md)
 
