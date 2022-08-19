@@ -18,7 +18,7 @@ The first step to using DoubleLoop is mapping your strategy in a format like the
 
 **Metrics** are quantifiable measures of your product and business success.
 
-**Workstreams** __ are initiatives, projects, or any collection of work activities.
+**Workstreams** are initiatives, projects, or any collection of work activities.
 
 In DoubleLoop, you can indicate when a workstream is intended to influence a metric or when a metric is believed to influence another metric.
 
@@ -34,7 +34,7 @@ There are three types of metrics in DoubleLoop that live on a spectrum from lead
 * **North Star metric**. Your North Star metric is how you measure the value you're delivering customers. If you grow the metric, you'll make your users and happy and grow your business. It's the bridge between your leading and lagging indicators. A rule of thumb is that you should have one North Star metric per product at your company.
 * **Business KPIs**. Business KPIs are lagging indicators that matter for your business; things like revenue and customer retention. Because they are lagging and subject to external forces, they often can't be impacted directly by work.
 
-For background on how the top companies think about their metrics, see our post, [_Metrics-driven product development is hard_](https://blog.doubleloop.app/metrics-driven-product-development-is-hard/).&#x20;
+For background on how the top companies think about their metrics, see our post, [_Metrics-driven product development is hard_](https://blog.doubleloop.app/metrics-driven-product-development-is-hard/).
 
 ## Workstream types
 
@@ -47,20 +47,6 @@ While DoubleLoop's first focus is product development, product initiatives are j
 
 Are there other types of workstreams that you think we should include? Let us know via Intercom in the bottom right.
 
-## Connecting it all together
-
-In DoubleLoop, you can map connections (1) between workstreams and metrics and (2) between metrics and other metrics. Here are the typical types of connections:
-
-* **Workstreams influence input metrics.** Generally, your workstreams should be designed to influence sensitive input metrics. **** It's likely that one of your projects will directly influence a business KPI.
-* **Input metrics influence other input metrics.** We recommend that you keep your strategy map as simple as possible, but sometimes you might need to show how one input metrics infleunces another, like with an acquisition funnel.
-* **Input metrics influence your North Star metric.** Ultimately, your input metrics should all feed your North Star metrics, the way that you're are delivering differentiated customer and business value.
-* **Your North Star metric influences your Business KPIs.** If you grow your North Star metrics, your business KPIs should improve as well.
-
-The above list of connection types as rules of thumbs for how your works and metrics relate to each other. But the DoubleLoop mapping tool doesn't prevent you from making other types of connections. We're excited to learn from you how you actually use it to model the reality of your company!
-
 ## Your strategy map is dynamic, not static
 
 Each link in your strategy map is an assumption that could be wrong or go wrong. Thus your map must be dynamic, not static. Expect to come back to the tool to make changes often!
-
-
-
