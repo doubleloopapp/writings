@@ -10,9 +10,9 @@ _Note: we recognize there's a lot of potential to simplify this process. Please 
 
 ## Part 1: **Create a "Metric source"**
 
-1.  Get your Snowflake **Host**, **Port**, **Warehouse name**, **Database name**, **Schema name**, **Username**, and **Password** ready, or ask your IT team for assistance in getting this information for your Snowflake instance. If your organization requires Snowflake roles, you'll need that as well.
+1.  Get your Snowflake **Host**, **Port**, **Warehouse name**, **Database name**, **Schema name**, **Username**, and **Password** ready, or ask your IT team for assistance in getting this information for your Snowflake instance. If your connection requires Snowflake roles, you'll need that as well.
 
-    <mark style="color:red;">**Important**</mark><mark style="color:red;">: You will need to make sure the Snowflake instance is reachable over the internet.</mark>
+    <mark style="color:red;">**Important**</mark><mark style="color:red;">: If your Snowflake instance is configured for IP based security, our outbound IP addresses are 35.160.120.126, 44.233.151.27, and 34.211.200.85.</mark>
 2. In DoubleLoop, go to the page for Metric Sources: [https://app.doubleloop.app/metric\_sources](https://app.doubleloop.app/metric\_sources)
 3. Click "Add metric" source.
 4. Enter a name for the metric source and optionally a description. The metric source name should be specific to a particular metric you want to create. E.g., it should be something like "# of new subscribers" as opposed to something more generic like "Snowflake."
