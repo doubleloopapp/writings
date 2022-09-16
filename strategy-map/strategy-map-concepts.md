@@ -4,7 +4,7 @@ description: Learn the concepts of how to map you strategy in DoubleLoop.
 
 # Strategy map concepts
 
-On this page, you can learn the concepts underlying DoubleLoop's strategy map tool. **If you'd like to jump straight to understanding the details of the tool inteface, go** [**here**](how-to-build-your-strategy-map.md)**.**
+On this page, you can learn the concepts underlying DoubleLoop's strategy map tool. **If you'd like to jump straight to understanding the details of the tool interface, go** [**here**](how-to-build-your-strategy-map.md)**.**
 
 Now let's dive into the concepts...
 
