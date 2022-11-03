@@ -10,7 +10,6 @@
 
 ## Metrics <a href="#measure" id="measure"></a>
 
-* [Dedicated Outbound IPs](measure/dedicated-outbound-ips.md)
 * [How to add metric data](measure/how-to-add-metric-data.md)
 * [Control the stats on your strategy map](measure/control-the-stats-on-your-strategy-map/README.md)
   * [Weighted averages](measure/control-the-stats-on-your-strategy-map/weighted-averages.md)
@@ -26,6 +25,7 @@
 * [MySQL](measure/mysql-integration.md)
 * [PostgreSQL](measure/postgresql.md)
 * [Snowflake integration](measure/snowflake-integration.md)
+* [Dedicated outbound IPs](measure/dedicated-outbound-ips.md)
 
 ## Workstreams <a href="#build" id="build"></a>
 
