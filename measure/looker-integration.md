@@ -28,7 +28,8 @@ description: >-
    \
    _If you have any issues here, continue following the instructions below and let us know when you're finished, we'll be glad to help you figure out what values to use._\
    <img src="../.gitbook/assets/Screen Shot 2022-08-18 at 9.54.16 AM.png" alt="" data-size="original">
-3. Find the Looker Look that contains the metrics you’d like to provide to DoubleLoop. **The Look must contain at least one date field and one value field.**
+3. Find the Looker Look that contains the metrics you’d like to provide to DoubleLoop. \
+   <mark style="background-color:yellow;">**The Look must contain at least one date field and one value field.**</mark>
 4.  From the Look configuration menu, choose the \`Schedule...\` option.
 
     <img src="https://lh4.googleusercontent.com/c0vBVEigZRLQ3ld-WJj2ZRL6m0K6zGEiAGrJtkeaoJeGZU08vndfw3pfxyCFA_rq4QDkCd7GSO5mwcpWFXDRDB54Rvc8ZFGN2PXxqWRwI07mQ-QcBTRPKoTDS9daSNDWyUqpTGYL" alt="" data-size="original">
@@ -36,7 +37,9 @@ description: >-
     \
     _Optionally, if you'd like to control the number of records sent to DoubleLoop, expand the Advanced options section._
 
-    <img src="../.gitbook/assets/Screen Shot 2022-08-18 at 9.23.52 AM.png" alt="" data-size="original">
+    <img src="../.gitbook/assets/Screen Shot 2022-08-18 at 9.23.52 AM.png" alt="" data-size="original">\
+    \
+    <mark style="background-color:yellow;">**Looker restricts the number of records a Look can send. If you go over the Look limit, you will need to limit the Look itself, outside of the schedule's filter options.**</mark>&#x20;
 6. To see your Looker data in DoubleLoop, either visit the [metrics list](https://app.doubleloop.app/metrics) and pick the metric you chose in the Look Schedule window or find it on your strategy map and double-click on the metric or click the (i) icon.\
    ![](../.gitbook/assets/staging.doubleloop.app\_strategy\_885\(Desktop\).png)
 7. If you need to update your Looker configuration in DoubleLoop, click on the `Data Source` tab and make any necessary edits.
