@@ -22,7 +22,7 @@ description: >-
 
 ## How to send metrics from Looker to DoubleLoop
 
-1. Create a Metric in DoubleLoop and add a Looker Data Source. This can either be done from the [metrics list](https://app.doubleloop.app/metrics) or via the strategy maps by clicking `+ Metric`, clicking the (i) icon on the newly created metric, and switching to the `Data Source` tab.\
+1. Create a Metric in DoubleLoop and add a Looker Data Source. This can either be done from the [metrics list](https://app.doubleloop.app/metrics) or via the strategy maps by clicking `+ Metric`, clicking the (i) icon on the newly created metric, and switching to the `Source` tab.\
    ![](<../.gitbook/assets/staging.doubleloop.app\_strategy\_885(Desktop) (1).png>)
 2. Fill in the Date field and Value field boxes, they should match the **bold** part of the table column name in the Looker Looks data table. In the example below, you would use `date date`  and `created`. \
    \

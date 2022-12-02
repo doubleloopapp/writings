@@ -18,7 +18,7 @@ To connect a metric to a data source, follow these steps:
 
 Reach out to us if you have questions! This gif illustrates:
 
-<figure><img src="../.gitbook/assets/CleanShot 2022-12-01 at 22.12.07.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2022-12-01 at 22.12.07 (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
