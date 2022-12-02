@@ -1,10 +1,38 @@
 ---
-description: How to get your metric data into DoubleLoop
+description: Learn how to get your metric data into DoubleLoop
 ---
 
 # How to add metric data
 
 By adding your metric data into DoubleLoop, you can see stats on your strategy map and metrics graphs for your workstreams.
+
+## Import data from your analytics tools
+
+DoubleLoop allows you to import time series data from your analytics tools like Snowflake, Redshift, Postgres, and Looker. See our full list of "[measure integrations](https://doubleloop.app/integration-category/measure)".
+
+To connect a metric to a data source, follow these steps:
+
+1. Double-click a metric on your strategy map or click the "i" icon for a metric.
+2. Click on the "Source" tab in the right drawer.
+3. Follow the steps to connect the source.
+
+Reach out to us if you have questions! This gif illustrates:
+
+<figure><img src="../.gitbook/assets/CleanShot 2022-12-01 at 22.12.07.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+## CSV upload
+
+Learn about it [here](upload-metrics-via-a-csv-file.md).
+
+## Add random dummy data!
+
+Before you connect your metrics in DoubleLoop to data sources, you can populate your map with random dummy data so you can see and share what a data-integrated map will look like.
+
+Here's a demo:
+
+{% embed url="https://www.loom.com/share/54ab3e6ba1d640878fcacddf16ec6d8a" %}
 
 ## Add data points manually
 
@@ -15,23 +43,8 @@ Sometimes it's easiest to enter data by hand. Here's how to do it:
 3. Enter the value and date.
 4. Click "Save."
 
-## Tool integration
-
-1. DoubleLoop has native integration with [Looker](https://looker.com/). Learn about it [here](looker-integration.md).
-2. We integrate with Google Analytics via [Zapier](https://zapier.com/). Check out the [DoubleLoop/GA Zapier template](https://zapier.com/webintent/create-zap?template=600472) (requires signing into Zapier).
-
-What analytics tool integrations would you like to see? Let us know via Intercom in the lower right.
-
 ## Metrics API
 
 Check out our [Metrics API doc](https://app.doubleloop.app/apidocs/1.0/zapier/create.html).
 
-## CSV upload
-
-Learn about it [here](upload-metrics-via-a-csv-file.md).
-
-## We'll do it for you!
-
-DoubleLoop is new and we have lots of integrations to add. For that reason, we're offering a paid service where we'll import your metrics into DoubleLoop for you. Additionally, we'll keep on them to let you know if we see exceptions or anomolies that you might be interested in.
-
-Want to learn more? [Schedule a chat](https://calendly.com/doubleloop/metric-service) or ping up via Intercom in the lower right.
+##
