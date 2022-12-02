@@ -6,8 +6,6 @@ description: Learn how to populate metrics in DoubleLoop via Amazon Redshift.
 
 DoubleLoop allows you to populate your metrics in DoubleLoop with time-series data from Redshift. Here's how to do it.
 
-## Part 1: **Create a "Metric source"**
-
 1.  Get your Amazon Redshift Host, Port, Database Name, Username, and Password ready, or ask your IT team for assistance in getting this information for your Amazon Redshift instance.
 
     <mark style="color:red;">**Important**</mark><mark style="color:red;">: You will need to make sure the Amazon Redshift instance is reachable over the internet.</mark>
