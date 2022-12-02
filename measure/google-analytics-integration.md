@@ -11,3 +11,7 @@ DoubleLoop allows you to populate your metrics in DoubleLoop with time-series da
 3. Choose "Google Analytics" as the source.
 4. Specify the property, metric, and segment you'd like to import into DoubleLoop.
 5. Click "save."
+
+If you get stuck, please reach out!
+
+![](<../.gitbook/assets/image (5).png>)

@@ -6,8 +6,6 @@ description: Learn how to populate metrics in DoubleLoop via PostgreSQL.
 
 DoubleLoop allows you to populate your metrics in DoubleLoop with time-series data from PostgreSQL. Here's how to do it.
 
-## Part 1: **Create a "Metric source"**
-
 1.  Get your PostgreSQL Host, Port, Database Name, Username, and Password ready, or ask your IT team for assistance in getting this information for your PostgreSQL instance.
 
     <mark style="color:red;">**Important**</mark><mark style="color:red;">: You will need to make sure the PostgreSQL instance is reachable over the internet.</mark>
@@ -21,3 +19,5 @@ DoubleLoop allows you to populate your metrics in DoubleLoop with time-series da
 9. Click "Save".
 
 If you get stuck, please reach out!
+
+![](<../.gitbook/assets/image (6).png>)

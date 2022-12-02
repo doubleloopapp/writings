@@ -18,3 +18,5 @@ DoubleLoop allows you to populate your metrics in DoubleLoop with time-series da
 8. Click "Save".
 
 If you get stuck, please reach out!
+
+![](<../.gitbook/assets/image (1).png>)
