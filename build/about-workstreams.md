@@ -18,13 +18,11 @@ When you populate your workstreams with data, DoubleLoop gives you an unpreceden
 
 ### Understand the impact of your activities
 
-![Example: use DoubleLoop to undertstand the impact of marketing activities.](<../.gitbook/assets/Screen Shot 2021-12-30 at 11.45.00 AM.png>)
+<figure><img src="../.gitbook/assets/CleanShot 2022-12-02 at 16.07.29@2x.png" alt=""><figcaption></figcaption></figure>
 
-On your workstreams page in DoubleLoop, you can view a history of all events in that workstream which is valuable by itself. However, you can also see your metrics overlayed on the same graph which is game-changing for understanding impact.
+For metrics in DoubleLoop, you can view a history of the events in the workstreams that influence that metric. The events are overlaid on the metric graph so you can explore what activities had an impact on the metric.
 
-The above example is our "Marketing experiments" workstream that we use at DoubleLoop. The bar graph indicates how much activity happened each day. The line graph shows the related input metric "Marketing site visitors." When we see that a marketing impact led to a spike in the metric, we mark it with those green bars.
-
-### Get a macro view of where your team is investing energy&#x20;
+### Get a macro view of where your team is investing energy
 
 ![Use the strategy map to see which workstreams are active or dormant.](<../.gitbook/assets/Screen Shot 2021-12-30 at 11.53.40 AM.png>)
 
@@ -34,11 +32,10 @@ Our own strategy map for DoubleLoop is above. You can see from the [stats](../st
 
 ### Keep stakeholders in the loop
 
-DoubleLoop makes it efficient for stakeholders to follow along with what's happening in the workstreams they care about via a [Slack integration](../slack-setup.md), [email digests](../email-digests.md), or [release notes pages](../private-and-public-stakeholder-views.md).
+DoubleLoop makes it efficient for stakeholders to follow along with what's happening in the workstreams they care about via a Slack integration, email digests, or [release notes pages](../private-and-public-stakeholder-views.md).
 
 ## Workstream integrations
 
 While you can record events in your workstreams manually, the best way to do it is through integrations with your tools. That way, you can keep your finger on the pulse of activity without any extra data entry.
 
-Learn about our [Jira](our-jira-app.md), [Shortcut](shortcut-integration.md), [Linear](linear-integration.md), [GitHub](github-setup-instructions.md), and [Zapier integrations](zapier-integration.md).
-
+Learn about our [Jira](our-jira-app.md), Shortcut, Linear, GitHub, and Zapier integrations.

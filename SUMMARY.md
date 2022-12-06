@@ -27,24 +27,13 @@
 ## Workstreams <a href="#build" id="build"></a>
 
 * [About workstreams](build/about-workstreams.md)
-* [Manually recording events](build/manually-recording-events.md)
+* [How to setup workstreams](build/how-to-setup-workstreams.md)
+* [Workstream event fields](build/workstream-event-fields.md)
 * [Jira integration](build/our-jira-app.md)
-* [Shortcut integration](build/shortcut-integration.md)
-* [GitHub integration](build/github-setup-instructions.md)
-* [Zapier integration](build/zapier-integration.md)
-* [Linear integration](build/linear-integration.md)
 
 ## Learn & Communicate
 
-* [Filtering and saving "views"](filtering-and-saving-views.md)
-* [Slack integration](slack-setup.md)
 * [Private & public stakeholder views](private-and-public-stakeholder-views.md)
-* [Email digests](email-digests.md)
-
-## Our evolution <a href="#the-vision" id="the-vision"></a>
-
-* [The DoubleLoop vision (2021)](the-vision/the-doubleloop-vision-2021.md)
-* [The original vision (2015)](the-vision/the-original-vision-2015.md)
 
 ## Other
 

@@ -8,7 +8,7 @@ description: Learn how PMs track the impact of their product initiatives.
 
 ## Overview
 
-Jira is designed to help you get work done. It's not designed to help you track previous launches or communicate wins to stakeholders. That's what DoubleLoop is for. You can use DoubleLoop to create a [source-of-truth for your product iterations](https://medium.com/swlh/why-you-need-a-source-of-truth-for-product-iterations-5bfc5997fb0f), quantify the impact of your product initiatives, and create [filtered views](../filtering-and-saving-views.md) of product updates tailored for different audiences.
+Jira is designed to help you get work done. It's not designed to help you track previous launches or communicate wins to stakeholders. That's what DoubleLoop is for. You can use DoubleLoop to create a [source-of-truth for your product iterations](https://medium.com/swlh/why-you-need-a-source-of-truth-for-product-iterations-5bfc5997fb0f), quantify the impact of your product initiatives, and create [filtered views](broken-reference) of product updates tailored for different audiences.
 
 ### How to install the Jira app
 
@@ -31,7 +31,7 @@ And these too:
 
 ## Ok, we installed it. Now what?
 
-DoubleLoop doesn't import historical data yet, but after you change the status of an issue or create a new issue,  you'll see it appear on the [all events](https://app.doubleloop.app/events) page in DoubleLoop. After you have some data, try filtering by epic, label, team member, and/or issue status to [create some awesome views](../filtering-and-saving-views.md).
+DoubleLoop doesn't import historical data yet, but after you change the status of an issue or create a new issue, you'll see it appear on the [all events](https://app.doubleloop.app/events) page in DoubleLoop. After you have some data, try filtering by epic, label, team member, and/or issue status to [create some awesome views](broken-reference).
 
 ## We're here to help
 
