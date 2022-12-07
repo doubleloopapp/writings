@@ -33,7 +33,7 @@
 
 ## Learn & Communicate
 
-* [Changelog pages](learn-and-communicate/changelog-pages.md)
+* [How to create and share changelogs](learn-and-communicate/how-to-create-and-share-changelogs.md)
 * [Email digest](learn-and-communicate/email-digest.md)
 * [Slack integration](learn-and-communicate/slack-integration.md)
 * [Private & public stakeholder views](private-and-public-stakeholder-views.md)

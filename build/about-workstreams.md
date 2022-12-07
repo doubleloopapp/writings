@@ -32,4 +32,4 @@ Our own strategy map for DoubleLoop is above. You can see from the [stats](../st
 
 ### Keep stakeholders in the loop
 
-DoubleLoop makes it efficient for stakeholders to follow along with what's happening in the workstreams they care about via Slack integration, email digests, or [release notes pages](../private-and-public-stakeholder-views.md).
+DoubleLoop makes it efficient for stakeholders to follow along with what's happening in the workstreams they care about via Slack integration, email digests, or [release notes pages](../learn-and-communicate/how-to-create-and-share-changelogs.md).
