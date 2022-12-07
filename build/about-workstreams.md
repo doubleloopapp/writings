@@ -28,14 +28,8 @@ For metrics in DoubleLoop, you can view a history of the events in the workstrea
 
 Product leaders oversee a portfolio of initiatives. By populating their workstreams with data, you can see where the team is spending energy, or not.
 
-Our own strategy map for DoubleLoop is above. You can see from the [stats](../strategy-map/stats-on-your-strategy-map.md) that we have an initiative to add more "Building tool integrations" that's been inactive for the last six weeks.
+Our own strategy map for DoubleLoop is above. You can see from the [stats](../strategy-map/stats-on-your-strategy-map.md) that we have the initiative to add more "Building tool integrations" that's been inactive for the last six weeks.
 
 ### Keep stakeholders in the loop
 
-DoubleLoop makes it efficient for stakeholders to follow along with what's happening in the workstreams they care about via a Slack integration, email digests, or [release notes pages](../private-and-public-stakeholder-views.md).
-
-## Workstream integrations
-
-While you can record events in your workstreams manually, the best way to do it is through integrations with your tools. That way, you can keep your finger on the pulse of activity without any extra data entry.
-
-Learn about our [Jira](our-jira-app.md), Shortcut, Linear, GitHub, and Zapier integrations.
+DoubleLoop makes it efficient for stakeholders to follow along with what's happening in the workstreams they care about via Slack integration, email digests, or [release notes pages](../private-and-public-stakeholder-views.md).
