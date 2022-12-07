@@ -8,7 +8,7 @@ description: Use DoubleLoop to track product iterations and other work activitie
 
 Your "workstreams" are collections of work activities. For example, your workstreams might contain your product iterations or your marketing experiments. You can organize them by initiative, project, epic, or team.
 
-On this page, you'll learn why you should track your workstreams in DoubleLoop and how to populate them with live data from your tools like Jira.
+On this page, you'll learn why you should track your workstreams in DoubleLoop. To learn more on the mechanics of setting up workstreams, go [here](how-to-setup-workstreams.md).
 
 ## Why should your record your workstreams in DoubleLoop?
 
