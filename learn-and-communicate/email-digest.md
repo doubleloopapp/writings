@@ -1,3 +1,0 @@
-# Email digest
-
-Coming soon...
