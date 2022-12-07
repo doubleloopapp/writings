@@ -21,11 +21,7 @@ Start by connecting our [Slack integration](https://app.doubleloop.app/settings/
 
 ## Example screenshots
 
-### Weekly strategy review sent to Slack
-
 <figure><img src="../.gitbook/assets/CleanShot 2022-12-07 at 12.26.30@2x.png" alt=""><figcaption><p>Weekly strategy review Slack message</p></figcaption></figure>
-
-### An event shared to Slack automatically or manually&#x20;
 
 <figure><img src="../.gitbook/assets/CleanShot 2022-12-07 at 12.28.05@2x.png" alt=""><figcaption><p>An event shared in Slack (either manually or automatically)</p></figcaption></figure>
 

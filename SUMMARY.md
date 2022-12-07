@@ -33,6 +33,7 @@
 
 ## Learn & Communicate
 
+* [How to share maps with stakeholders](learn-and-communicate/how-to-share-maps-with-stakeholders.md)
 * [How to create and share changelogs](learn-and-communicate/how-to-create-and-share-changelogs.md)
 * [Private & public stakeholder views](private-and-public-stakeholder-views.md)
 * [Slack integration](learn-and-communicate/slack-integration.md)
