@@ -33,6 +33,9 @@
 
 ## Learn & Communicate
 
+* [Changelog pages](learn-and-communicate/changelog-pages.md)
+* [Email digest](learn-and-communicate/email-digest.md)
+* [Slack integration](learn-and-communicate/slack-integration.md)
 * [Private & public stakeholder views](private-and-public-stakeholder-views.md)
 
 ## Other
