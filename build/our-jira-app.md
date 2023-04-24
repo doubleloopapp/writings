@@ -53,5 +53,7 @@ Data from DoubleLoop will display in the business impact panel from nodes that a
 
 <figure><img src="../.gitbook/assets/CleanShot 2023-04-24 at 13.19.48@2x.png" alt=""><figcaption></figcaption></figure>
 
+## Feedback
 
+What else what you like the Jira app to do? How could it be easier to use? What's confusing about it? Please email/intercom/slack us your thoughts.
 
