@@ -29,7 +29,7 @@
 * [About workstreams](build/about-workstreams.md)
 * [How to setup workstreams](build/how-to-setup-workstreams.md)
 * [Workstream event fields](build/workstream-event-fields.md)
-* [Jira integration](build/our-jira-app.md)
+* [Jira app](build/our-jira-app.md)
 
 ## Learn & Communicate
 
