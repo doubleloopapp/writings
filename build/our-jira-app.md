@@ -10,6 +10,8 @@ Thanks so much for being one of the first to try out our new Jira app. We're exc
 
 During this early phase of development, we will be rapidly iterating on the Jira app. Things are likely to change fast! If something looks broken, please let us know. We appreciate your patience.
 
+Also, a headsup: early testers might be asked to uninstall and reinstall the app as we make improvements and fixes.
+
 ## Overview
 
 Check out this 2 minute overview to get the big picture of the DoubleLoop Jira app.
