@@ -2,7 +2,7 @@
 description: Play an active role in shaping the future of DoubleLoop.
 ---
 
-# DoubleLoop customer advisory board
+# Customer advisory board
 
 ## Overview
 

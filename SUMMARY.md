@@ -41,7 +41,7 @@
 
 ## Other
 
-* [DoubleLoop customer advisory board](other/doubleloop-customer-advisory-board.md)
+* [Customer advisory board](other/customer-advisory-board.md)
 * [Privacy Policy](https://doubleloop.app/privacy-policy)
 * [Terms of Use](https://doubleloop.app/terms-of-use)
 * [Contact support](mailto:support@doubleloop.app)
