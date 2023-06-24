@@ -42,6 +42,7 @@
 ## Other
 
 * [Customer advisory board](other/customer-advisory-board.md)
+* [AI prompt suggestions](other/ai-prompt-suggestions.md)
 * [Privacy Policy](https://doubleloop.app/privacy-policy)
 * [Terms of Use](https://doubleloop.app/terms-of-use)
 * [Contact support](mailto:support@doubleloop.app)

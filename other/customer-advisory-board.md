@@ -1,12 +1,12 @@
 ---
-description: Play an active role in shaping the future of DoubleLoop.
+description: Help shape the future of outcomes-driven work.
 ---
 
 # Customer advisory board
 
 ## Overview
 
-So much work is wasted. Companies continually work on projects wth poor business impact while failing to double-down on initiatives with the highest ROI.
+So much work is wasted. Companies continually work on projects with poor business impact while failing to double down on initiatives with the highest ROI.
 
 In part, it's a tools problem. Today's tools separate work from measuring business results, leading teams to focus on outputs, not outcomes. DoubleLoop's paradigm breaks these boundaries, bringing clarity to actions and results. We're on a mission to transform how teams learn and execute strategy.
 
@@ -25,15 +25,19 @@ The DoubleLoop customer advisory board consists of ten companies across a divers
 
 * 20% discount on DoubleLoop.
 * Influence DoubleLoop's roadmap.
-* Early access to new DoubleLoop features to help your team achieve better business otucomes.
+* Early access to new DoubleLoop features to help your team achieve better business outcomes.
 * Free North Star workshop to help you align on actionable metrics.
 * Dedicated customer success.
 
 ## What's involved?
 
 * Members must have at least one [paid editor seat](https://doubleloop.app/pricing) in DoubleLoop.
+* Members must be able to integrate at least one of the following:
+  * Work source - Jira, Linear, or Shortcut
+  * Metric source - Snowflake, Bigquery, Postgres, Looker, Amplitude, Google Analytics, etc. ([see full list](https://doubleloop.app/integration-category/measure))
+  * Communication channel - Slack or email
 * Shared Slack channel for asynchronous feedback.
-* Quarterly zoom calls for in-deth product feedback.
+* Monthly Zoom calls for in-depth in-depth product feedback.
 * DoubleLoop can use your company logo on marketing materials.
 * Case studies and collaborations on content to share success stories with the world.
 
