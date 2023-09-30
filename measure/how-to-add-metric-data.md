@@ -8,7 +8,7 @@ By adding your metric data into DoubleLoop, you can see stats on your strategy m
 
 ## Import data from your analytics tools
 
-DoubleLoop allows you to import time series data from your analytics tools like Snowflake, Redshift, Postgres, and Looker. See our full list of "[measure integrations](https://doubleloop.app/integration-category/measure)".
+DoubleLoop allows you to import time series data from your analytics tools like Snowflake, Redshift, Postgres, and Looker. See our full list of [integrations](https://doubleloop.app/integrations).
 
 To connect a metric to a data source, follow these steps:
 
@@ -45,6 +45,6 @@ Sometimes it's easiest to enter data by hand. Here's how to do it:
 
 ## Metrics API
 
-Check out our [Metrics API doc](https://app.doubleloop.app/apidocs/1.0/zapier/create.html).
+Check out our [Metrics API](https://app.doubleloop.app/apidocs/1.0/metrics.html) doc.
 
 ##
