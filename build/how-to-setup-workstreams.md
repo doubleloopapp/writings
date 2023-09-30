@@ -10,7 +10,7 @@ To learn more about why workstreams are useful, go [here](about-workstreams.md).
 
 **Key concept: workstreams are filtered views of events. An event appears in a workstream if it matches the criteria of the workstream filter.**
 
-We built workstreams to use filters so that you can send noisy hire hoses of information to DoubleLoop from other tools (like Jira) and use filters to separate the signal from the noise.
+We built workstreams to use filters so that you can send noisy fire hoses of information to DoubleLoop from other tools (like Jira) and use filters to separate the signal from the noise.
 
 By default, all workstreams are created with a _label_ filter based on the name of the workstream. Any event with that label will appear in the workstream.
 
