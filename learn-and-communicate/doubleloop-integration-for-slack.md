@@ -1,14 +1,18 @@
 ---
-description: Learn how to use the DoubleLoop Slack integration.
+description: Learn how to use the DoubleLoop integration for Slack.
 ---
 
-# Slack integration
+# DoubleLoop integration for Slack
 
-DoubleLoop makes it easy to manually or automatically push information to Slack. Using our Slack integration helps teams stay aligned and up-to-speed with progress.
+DoubleLoop makes it easy to manually or automatically push information to Slack. Using the DoubleLoop integration for Slack helps teams stay aligned and up-to-speed with progress.
 
-## How to integrate Slack
+## How to connect
 
 Start by connecting our [Slack integration](https://app.doubleloop.app/settings/integrations/slack) from the integrations page. Then setup the types of messages you'd like as described below.
+
+## Support
+
+For support or to report any issues, use the widget at the bottom of the page or email [support@doubleloop.app](mailto:support@doubleloop.app).
 
 ## Types of Slack messages sent from DoubleLoop
 

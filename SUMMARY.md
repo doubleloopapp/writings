@@ -36,7 +36,7 @@
 * [How to share maps with stakeholders](learn-and-communicate/how-to-share-maps-with-stakeholders.md)
 * [How to create and share changelogs](learn-and-communicate/how-to-create-and-share-changelogs.md)
 * [Private & public stakeholder views](private-and-public-stakeholder-views.md)
-* [Slack integration](learn-and-communicate/slack-integration.md)
+* [DoubleLoop integration for Slack](learn-and-communicate/doubleloop-integration-for-slack.md)
 * [Email digests](learn-and-communicate/email-digests.md)
 
 ## Other
