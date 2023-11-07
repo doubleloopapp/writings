@@ -1,8 +1,8 @@
 ---
-description: Understand DoubleLoop method and platform in 30-min
+description: Understand the DoubleLoop method and platform in 30-min
 ---
 
-# The DoubleLoop Course
+# The DoubleLoop Course in Impact-Oriented Strategy
 
 ## I. The Feature Factory Problem
 
