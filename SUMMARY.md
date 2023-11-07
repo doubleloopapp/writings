@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [The DoubleLoop Course](the-doubleloop-course.md)
 
 ## Strategy map
 
