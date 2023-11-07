@@ -29,6 +29,7 @@ Dig deeper:
 * [The deep value of the North Star Framework is not a North Star metric](https://blog.doubleloop.app/the-deep-value-of-the-north-star-framework-is-not-a-north-star-metric/) (DoubleLoop blog)
 * [North Star Playbook](https://amplitude.com/books/north-star) (Amplitude)
 * [Don’t Become a Victim of One Key Metric](measure/dedicated-outbound-ips.md) (Casey Winters)
+* [Designing and Building Metric Trees](https://www.youtube.com/watch?v=Dbr8jmtfZ7Q) (Abhi Sivasailam)
 * [KPI Trees: How to Bridge the Gap Between Customer Behavior, Product Metrics, and Company Goals](https://www.petra-wille.com/blog/kpi-trees-how-to-bridge-the-gap-between-customer-behavior-product-metrics-and-company-goals) (Petra Wille & Shaun Russell)
 * [Growth Loops](https://www.reforge.com/blog/growth-loops) (Reforge)
 
