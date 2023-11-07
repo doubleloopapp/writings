@@ -1,5 +1,5 @@
 ---
-description: Understand the DoubleLoop method and platform in 30-min
+description: Understand the DoubleLoop method and platform in 30 minutes
 ---
 
 # The DoubleLoop Course in Impact-Oriented Strategy
@@ -7,6 +7,8 @@ description: Understand the DoubleLoop method and platform in 30-min
 ## I. The Feature Factory Problem
 
 {% embed url="https://www.loom.com/share/af664c9a82d64e03aff72101687e878a" %}
+5 minutes
+{% endembed %}
 
 Dig deeper:
 
@@ -16,6 +18,8 @@ Dig deeper:
 ## II. The DoubleLoop Method for Impact-Oriented Strategy
 
 {% embed url="https://www.loom.com/share/bc86410138c34593ab41a484cf2669a4" %}
+8 minutes
+{% endembed %}
 
 Dig deeper:
 
@@ -31,6 +35,8 @@ Dig deeper:
 ## III. Intro to the DoubleLoop Platform for Strategy Development
 
 {% embed url="https://www.loom.com/share/6b2632df00df4292832b58e8fed5af79" %}
+4 minutes
+{% endembed %}
 
 Dig deeper:
 
@@ -39,6 +45,8 @@ Dig deeper:
 ## IV. Creating Aligned Autonomy in Jira
 
 {% embed url="https://www.loom.com/share/fc3316bf40944d0f8bafb40c8683be82" %}
+2 minutes
+{% endembed %}
 
 Dig deeper:
 
@@ -49,6 +57,8 @@ Dig deeper:
 ## V. How SpotHero Uses Correlation Scores to Optimize Their Strategy
 
 {% embed url="https://www.loom.com/share/1a620e8ea24248bfa4d124396b6585b0" %}
+5 minutes
+{% endembed %}
 
 Dig deeper:
 
@@ -59,10 +69,14 @@ Dig deeper:
 ## VI. Communicating Strategy at Different Altitudes
 
 {% embed url="https://www.loom.com/share/d00a171e011d49ac86bf7ceed8d2e318" %}
+2 minutes
+{% endembed %}
 
 ## VI. Understanding The Impact of Bets
 
 {% embed url="https://www.loom.com/share/54ef8fbd2e5e46c4b059d100265f71f0" %}
+4 minutes
+{% endembed %}
 
 Dig deeper:
 
