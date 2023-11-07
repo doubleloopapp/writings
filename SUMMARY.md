@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [The DoubleLoop Course in Impact-Oriented Strategy](the-doubleloop-course-in-impact-oriented-strategy.md)
+* [Quickstart to Impact-Oriented Strategy](quickstart-to-impact-oriented-strategy.md)
 
 ## Strategy map
 
