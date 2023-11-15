@@ -28,6 +28,7 @@
 ## Share
 
 * [Access settings for maps](share/private-and-public-stakeholder-views.md)
+* [Automated Slack reports](share/automated-slack-reports.md)
 
 ## Other
 
