@@ -4,7 +4,7 @@ description: Learn how to use Google Sheets to populate you maps with data
 
 # Google Sheets integration
 
-Our Google Sheets integration is a great way to quickly populate your stategy maps without the data. Even if you're planning to ultimately connect DoubleLoop directly to your metric sources, the Google Sheets integration can be a great way to make a proof-of-concept of a data-connected maps.
+Our Google Sheets integration is a good way to quickly populate your stategy maps with  data, without deeper data integrations. Even if you're planning to ultimately connect DoubleLoop directly to your metric sources for automation, the Google Sheets integration can be a great way to make a proof-of-concept of a data-connected maps.
 
 ## Video overview
 
@@ -32,7 +32,7 @@ Here's an example of a Google Sheet populated with data that you can import into
 
 Notes:
 
-* You can use the Google Sheet integration to update existing metrics in DoubleLoop or add new metrics. See the instructions at the top of the linked Google Sheet. To add a metric to the map that you added via Google Sheets, after clicking the "Metric" option a map, you can search to find that metric.
+* You can use the Google Sheet integration to update existing metrics in DoubleLoop or add new metrics. See the instructions at the top of the linked Google Sheet. To add a metric to the map that you added via Google Sheets, after clicking the "Metric" option on a map, you can search to find that metric.
 * The Google Sheets integration is not a bi-directional sync. If you make changes in DoubleLoop and would like the Google Sheet to reflect that, you can unlink your linked Google Sheet and re-connect. This will export the latest data to a linked Google Sheet.
 
 
