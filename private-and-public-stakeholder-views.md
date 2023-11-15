@@ -1,10 +1,10 @@
 ---
-description: Learn how to make public or private maps or release notes.
+description: Learn how to share public or private maps.
 ---
 
-# Private & public stakeholder views
+# Access settings for maps
 
-By default, your stakeholder views for maps and changelogs are private such that login is required to access them. However, you can make them public if you'd like to open access to folks outside your company, like customers.
+By default, your maps aare private such that login is required to access them. However, you can make them public if you'd like to open access to folks outside your company, like customers.
 
 Here's how each access option works:
 
