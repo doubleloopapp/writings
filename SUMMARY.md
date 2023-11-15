@@ -4,8 +4,8 @@
 
 ## Metrics <a href="#measure" id="measure"></a>
 
-* [Metric types](measure/strategy-map-concepts.md)
 * [How to add metric data](measure/how-to-add-metric-data.md)
+* [Metric types](measure/strategy-map-concepts.md)
 * [Control the stats on your strategy map](measure/control-the-stats-on-your-strategy-map/README.md)
   * [Weighted averages](measure/control-the-stats-on-your-strategy-map/weighted-averages.md)
 * [Amazon Redshift integration](measure/amazon-redshift-integration.md)
@@ -19,14 +19,14 @@
 * [Snowflake integration](measure/snowflake-integration.md)
 * [Dedicated outbound IPs](measure/dedicated-outbound-ips.md)
 
-## Workstreams <a href="#build" id="build"></a>
+## Work <a href="#build" id="build"></a>
 
 * [Jira app](build/our-jira-app.md)
 * [Event fields](build/event-fields.md)
 
-## Learn & Communicate
+## Share
 
-* [Access settings for maps](private-and-public-stakeholder-views.md)
+* [Access settings for maps](share/private-and-public-stakeholder-views.md)
 
 ## Other
 
