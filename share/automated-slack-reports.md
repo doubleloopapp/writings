@@ -22,4 +22,4 @@ After you've set it up, reports will be sent to Slack every week on Friday.
 
 ## Support
 
-If you need any help with the integration or have ideas for enhancing it, please email us at support@doubleloop.app.
+If you need any help with the integration or have ideas for enhancing it, please email us at [support@doubleloop.app](mailto:support@doubleloop.app).
