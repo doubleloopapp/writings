@@ -37,5 +37,5 @@ description: >-
 
 3. Select your Look, which will then fetch the fields from that Look and show a list of available fields for the Date and Value for DoubleLoop to parse. Optionally, pick an Import time if the default does not work for you. \
    ![](<../.gitbook/assets/app.doubleloop.app\_settings\_integrations (2).png>)
-4. Finally, save the changes. An automatic historical import will be started and new daily. metric data should begin to flow into DoubleLoop.&#x20;
+4. Finally, save the changes. An automatic historical import will be started and new daily metric data should begin to flow into DoubleLoop.&#x20;
 5. If you need to update your Looker configuration in DoubleLoop, click on the `Source` tab, then the `Edit` button, and finally make any necessary edits.
