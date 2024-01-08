@@ -25,7 +25,7 @@ description: >-
 
 1. Go to the [DoubleLoop Integrations Page](https://app.doubleloop.app/settings/integrations) and click `+ Add Integration`.\
    ![](../.gitbook/assets/app.doubleloop.app\_settings\_integrations.png)
-2. In the popover choose Looker API and hit \`Next\`.&#x20;
+2. In the popover choose Looker API and hit `Next`.&#x20;
 3. Fill in the details in the popover, we suggest giving your integration an easy to remember name to help keep track of the integration.
 4. In the API endpoint field, use the Looker API Host URL mentioned above making sure to add `/api/4.0` on the end to match the placeholder text.
 5. Finally, use the `Test credentials` button to test that it's all setup correctly and hit `Save` to finish setting up the integration.
