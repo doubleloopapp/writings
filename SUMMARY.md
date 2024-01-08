@@ -14,7 +14,7 @@
 * [CSV file upload](measure/upload-metrics-via-a-csv-file.md)
 * [Google Analytics integration](measure/google-analytics-integration.md)
 * [Looker Action Hub integration](measure/looker-integration.md)
-* [Looker API integration](measure/looker-integration-1.md)
+* [Looker API integration](measure/looker-api-integration.md)
 * [Mixpanel](measure/mixpanel-integration.md)
 * [MySQL](measure/mysql-integration.md)
 * [PostgreSQL](measure/postgresql.md)
