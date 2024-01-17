@@ -13,7 +13,9 @@ DoubleLoop allows you to populate your metrics in DoubleLoop with time-series da
     \ <mark style="color:red;">**Important**</mark><mark style="color:red;">: If your Snowflake instance is configured for IP based security, our outbound IP addresses are 35.160.120.126, 44.233.151.27, and 34.211.200.85.</mark>
 2. In DoubleLoop, double-click on a metric on the map.
 3. Click the "Source" tab in the right drawer.
-4. Fill in your Host with either the domain name or IP address of your Snowflake instance **without the https:// or the trailing slash**.
+4. Fill in your Host with either the domain name or IP address of your Snowflake instance **without the https:// or the trailing slash**. You can use the bottom left menu on Snowflake to find your Host.\
+   \
+   ![](<../.gitbook/assets/Screenshot 2024-01-17 at 3.43.10 PM.png>)
 5. Fill in the Port with your port, the default for Snowflake is 443.
 6. Fill in your Snowflake warehouse name, database name, schema name, username, and password.
 7. Input the query into DoubleLoop. The output of the query must contain columns named "date" and "value". We recommend that you test out the query in Snowflake before you input it into DoubleLoop.
