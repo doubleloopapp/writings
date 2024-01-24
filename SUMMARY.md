@@ -2,6 +2,10 @@
 
 * [Quickstart to Impact-Oriented Strategy](README.md)
 
+## Map building
+
+* [Map objects](map-building/map-objects.md)
+
 ## Metrics <a href="#measure" id="measure"></a>
 
 * [How to add metric data](measure/how-to-add-metric-data.md)
