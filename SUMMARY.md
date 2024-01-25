@@ -24,6 +24,7 @@
 * [PostgreSQL](measure/postgresql.md)
 * [Snowflake integration](measure/snowflake-integration.md)
 * [Dedicated outbound IPs](measure/dedicated-outbound-ips.md)
+* [Data segmentation](measure/data-segmentation.md)
 
 ## Work <a href="#build" id="build"></a>
 
