@@ -4,6 +4,8 @@ description: This page describes how to setup data segmentation in DoubleLoop.
 
 # Data segmentation
 
+_Note: The data segmentation feature is available to subscribers of our "Scale" plan. If you'd like access, let us know._
+
 ## What is data segmentation in DoubleLoop?
 
 With data segmentation, you can tag the data points you import into DoubleLoop with one or more segments; e.g., geography, new/returning users, pricing plan, etc..
