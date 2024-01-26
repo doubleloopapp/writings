@@ -2,7 +2,7 @@
 description: Understand the DoubleLoop method and platform in 30 minutes
 ---
 
-# The DoubleLoop Course in Impact-Oriented Strategy
+# Quickstart to Impact-Oriented Strategy
 
 ## 1. The Feature Factory Problem
 
@@ -12,6 +12,7 @@ description: Understand the DoubleLoop method and platform in 30 minutes
 
 Dig deeper:
 
+* [Feature Factories vs. Value Generators](https://itamargilad.com/feature-factory/)
 * [12 Signs You're Working in a Feature Factory](https://medium.com/@johnpcutler/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 * [Why business intelligence falls flat](https://blog.doubleloop.app/why-dashboards-fall-flat/)
 
