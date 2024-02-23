@@ -4,7 +4,9 @@ description: >-
   place. It's the best way to align a team around an initiative.
 ---
 
-# Looker integration
+# Looker Action Hub integration
+
+<mark style="color:red;">**Important**</mark><mark style="color:red;">: If your Looker instance is configured for IP based security, our outbound IP addresses are 35.160.120.126, 44.233.151.27, and 34.211.200.85. We use Look data downloads to allow for large data sets and require access to fetch the download.</mark>
 
 ## How to enable Looker integration
 
