@@ -19,6 +19,7 @@
 * [Google Analytics integration](measure/google-analytics-integration.md)
 * [Looker Action Hub integration](measure/looker-integration.md)
 * [Looker API integration](measure/looker-api-integration.md)
+* [Amplitude integration](measure/amplitude-integration.md)
 * [Mixpanel](measure/mixpanel-integration.md)
 * [MySQL](measure/mysql-integration.md)
 * [PostgreSQL](measure/postgresql.md)
