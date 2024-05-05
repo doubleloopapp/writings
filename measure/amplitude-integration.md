@@ -12,7 +12,7 @@ To get a general overview of DoubleLoop, see our [demo video](https://www.loom.c
 
 ## Example DoubleLoop map with Amplitude data
 
-<figure><img src="https://lh7-us.googleusercontent.com/YwG1Q65-fESb5WV710nh5KbDYM5WVEYpfAPsLpHe65lfg1VMvt9qA2QUvPVhTJUnJ_3ZzXy7e1FIIVkB9ZAaLilAO-yBHDu0yYSwCvQtoA_Ih4sxjtQTBBP-SmRTBTszQa57MAl-QtL1rK5mITbHvl0" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-05-05 at 15.25.23.png" alt=""><figcaption></figcaption></figure>
 
 ## Instructions
 
