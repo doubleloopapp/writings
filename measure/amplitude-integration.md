@@ -10,6 +10,8 @@ DoubleLoop enables teams to align on their metrics-driven strategy. After popula
 
 To get a general overview of DoubleLoop, see our [demo video](https://www.loom.com/share/395283236e414e89bfd0a5cbef0b51b3).
 
+See below for our [future plans](amplitude-integration.md#future-vision) for evolving this integration.
+
 ## Example DoubleLoop map with Amplitude data
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-05-05 at 15.25.23.png" alt=""><figcaption></figcaption></figure>
@@ -50,6 +52,6 @@ Our future vision for the integration is to seamlessly pull in Amplitude metrics
 
 Examples:
 
-* After connecting DoubleLoop to Amplitude, we could automatically populate your metric library in DoubleLoop with all of your charts (limited to charts with time series data).
+* After connecting DoubleLoop to Amplitude, we could automatically populate your metric library in DoubleLoop with all of your charts.
 * We could enable you to select an Amplitude funnel and automatically create a DoubleLoop map for your funnel, populated with data.
 * We could enable you to select an Amplitude dashboard or notebook and automatically add all included metrics to your DoubleLoop map.
