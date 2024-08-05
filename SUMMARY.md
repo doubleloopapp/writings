@@ -31,6 +31,7 @@
 
 * [Jira app](build/our-jira-app.md)
 * [Event fields](build/event-fields.md)
+* [Asana integration](build/asana-integration.md)
 
 ## Share
 
