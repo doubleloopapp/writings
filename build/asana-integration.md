@@ -11,6 +11,7 @@
 
 * If the task is completed in Asana, it's status is set to "Finished" in DoubleLoop.
 * Otherwise:
-  * If the task does not have a start date in Asana or the start date is in the future, then the status is set to "Not Started"
-  * If the tasks has a start date in the past, the status in DoubleLoop is set to "Started."
+  * If the task has a start date in Asana and the start date is in the past, then the status is set to "Started"
+  * If the task has an end date in Asana and the end date is in the past, then the status is set to "Started"
+  * If the task does not have a start date or end date or both dates are in the future, then the status is set to "Not started"
 

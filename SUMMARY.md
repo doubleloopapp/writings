@@ -38,6 +38,10 @@
 * [Access settings for maps](share/private-and-public-stakeholder-views.md)
 * [Automated Slack reports](share/automated-slack-reports.md)
 
+## Group 1
+
+* [Company Map Generator (AI assistant)](group-1/company-map-generator-ai-assistant.md)
+
 ## Other
 
 * [Privacy Policy](https://doubleloop.app/privacy-policy)
