@@ -40,7 +40,7 @@
 
 ## AI assistants
 
-* [Company Map Generator (AI assistant)](ai-assistants/company-map-generator-ai-assistant.md)
+* [Company Map Generator (AI assistant)](group-1/company-map-generator-ai-assistant.md)
 
 ## Other
 
