@@ -16,6 +16,8 @@ For example, based on a public investor presentation and off-the-shelf marketing
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-08-21 at 09.49.32.png" alt=""><figcaption><p>Click <a href="https://app.doubleloop.app/strategy/4053/map">here</a> to see actual map in DoubleLoop.</p></figcaption></figure>
 
+
+
 ## Use cases
 
 We've seen companies use this tool for combinations of these purposes:
@@ -24,6 +26,10 @@ We've seen companies use this tool for combinations of these purposes:
 * Customer success teams generate maps of their current customers to show how they deliver value.
 * Product teams generate maps of their customers to inform their product strategy and roadmap.
 * Product teams generate maps of their own company's strategy to illustrate how their work fits into the big picture.
+
+## Demo video
+
+{% embed url="https://www.loom.com/share/d0ff7c0b17b34aa7b46f9537c5b25785" %}
 
 ## Instructions
 
