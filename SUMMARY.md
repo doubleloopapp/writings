@@ -38,6 +38,13 @@
 * [Access settings for maps](share/private-and-public-stakeholder-views.md)
 * [Automated Slack reports](share/automated-slack-reports.md)
 
+## DoubleLoop-powered services
+
+* [Service overview](doubleloop-powered-services/service-overview.md)
+* [Selecting a first initiative for a proof-of-concept](doubleloop-powered-services/selecting-a-first-initiative-for-a-proof-of-concept.md)
+* [Identify the client participants](doubleloop-powered-services/identify-the-client-participants.md)
+* [Getting context on initiative](doubleloop-powered-services/getting-context-on-initiative.md)
+
 ## AI assistants
 
 * [Company Map Generator (AI assistant)](group-1/company-map-generator-ai-assistant.md)
