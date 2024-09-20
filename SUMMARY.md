@@ -43,7 +43,8 @@
 * [Service overview](doubleloop-powered-services/service-overview.md)
 * [Selecting a first initiative for a proof-of-concept](doubleloop-powered-services/selecting-a-first-initiative-for-a-proof-of-concept.md)
 * [Identify the client participants](doubleloop-powered-services/identify-the-client-participants.md)
-* [Getting context on initiative](doubleloop-powered-services/getting-context-on-initiative.md)
+* [Getting context on an initiative](doubleloop-powered-services/getting-context-on-an-initiative.md)
+* [Setting up a DoubleLoop account for your client](doubleloop-powered-services/setting-up-a-doubleloop-account-for-your-client.md)
 
 ## AI assistants
 
