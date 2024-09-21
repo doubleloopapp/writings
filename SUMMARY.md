@@ -45,6 +45,7 @@
 * [Identify the client participants](doubleloop-powered-services/identify-the-client-participants.md)
 * [Getting context on an initiative](doubleloop-powered-services/getting-context-on-an-initiative.md)
 * [Setting up a DoubleLoop account for your client](doubleloop-powered-services/setting-up-a-doubleloop-account-for-your-client.md)
+* [Creating a value architecture draft](doubleloop-powered-services/creating-a-value-architecture-draft.md)
 
 ## AI assistants
 
