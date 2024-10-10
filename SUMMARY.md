@@ -1,6 +1,9 @@
 # Table of contents
 
+## General
+
 * [Quickstart to Impact-Oriented Strategy](README.md)
+* [Roles](general/roles.md)
 
 ## Map building
 
