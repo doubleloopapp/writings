@@ -37,7 +37,7 @@ We've seen companies use this tool for combinations of these purposes:
 
 1. Login at [https://app.doubleloop.app/](https://app.doubleloop.app/).
 2. Click "Create map"
-3. Use the "Corporate Objectives Template"
+3. Use the "[Corporate Objectives Template](https://app.doubleloop.app/playbooks/corporate-objectives-template)"
 4. Wait for the map to fully populate on the canvas. It takes about 45 seconds. When done, you should see this:
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-08-21 at 11.57.40@2x.png" alt=""><figcaption><p>Corporate objectives template</p></figcaption></figure>
@@ -47,7 +47,7 @@ We've seen companies use this tool for combinations of these purposes:
 #### Synthesize the strategy from available documents
 
 1. Click the head icon in the bottom toolbar to open the AI assistant menu.![](<../.gitbook/assets/CleanShot 2024-08-21 at 11.59.24@2x.png>)
-2. Select "Company map generator."
+2. Select "Corporate Strategy Generator"
 3. Click "Start a new conversation"
 4. Type "Go" and submit the message. It will take a few seconds for the first message to process.
 5. When prompted "What company are you focused on?", enter the name of the company you want to map the strategy for (e.g., Target) and submit.
