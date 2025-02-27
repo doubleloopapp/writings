@@ -23,4 +23,4 @@ DoubleLoop allows you to populate your metrics in DoubleLoop with time-series da
 
 If you get stuck, please reach out!
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)

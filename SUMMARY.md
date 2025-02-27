@@ -4,6 +4,7 @@
 
 * [Quickstart to Impact-Oriented Strategy](README.md)
 * [Roles](general/roles.md)
+* [Build your First Proof-of-Concept](general/build-your-first-proof-of-concept.md)
 
 ## Map building
 
