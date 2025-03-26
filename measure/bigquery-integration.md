@@ -28,7 +28,7 @@ _bigquery.jobs.create, bigquery.datasets.get, bigquery.tables.getData, bigquery.
 2. Click the "Source" option in the toolbar.
 3. In the Source menu in the right side drawer, click "Add Source."
 4. Select Google Big Query and click Next.
-5. Upload the credentials file (see step #1) and follow the steps.
+5. Upload the credentials file from above and follow the steps.
 6. Input the query into DoubleLoop for the metric. The output of the query must contain columns named "date" and "value". We recommend that you test out the query in BigQuery before you input it into DoubleLoop.
    * To import segmented data, see the data format [here](data-segmentation.md).
 7. Click "Save".
