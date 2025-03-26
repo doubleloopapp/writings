@@ -30,6 +30,7 @@
 * [Snowflake integration](measure/snowflake-integration.md)
 * [Dedicated outbound IPs](measure/dedicated-outbound-ips.md)
 * [Data segmentation](measure/data-segmentation.md)
+* [Bulk Importing Bookmarklet](measure/bulk-importing-bookmarklet.md)
 
 ## Work <a href="#build" id="build"></a>
 
